@@ -4,7 +4,7 @@
     "poster": "https://newsroompost.com/wp-content/uploads/2024/06/kota-1.jpg",
     "rated": "PG-13",
     "popular": "yes",
-    "category": "Adventure",
+    "category": "Drama",
     "languages": {
       "English": {
         "episodes": [
@@ -55,7 +55,7 @@
     "poster": "https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/163/2025/09/04/Drakor-Baru-Confidence-Queen-2005362199.jpeg",
     "rated": "R",
     "popular": "no",
-    "category": "Fantasy",
+    "category": "Romance",
     "languages": {
       "English": {
         "episodes": [
@@ -106,7 +106,7 @@
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrdGDD5bUW9rbLEaHpymOrGsVHLkHKydm4CQ&s",
     "rated": "PG-13",
     "popular": "no",
-    "category": "Historical",
+    "category": "Drama",
     "languages": {
       "English": {
         "episodes": [
@@ -157,7 +157,7 @@
     "poster": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUdrS-n4PStA7nVfbFn4WID2K9ztTNiUeeUMwQX5o5g_8HJDY5z-QzygPojCaSAFJL3fT05zK7SVCTi2V6y3CKQ-lbxIbB_h9ZEAuxPwOp765Gd-_ejcNA9W9A.jpg?r=5df",
     "rated": "R",
     "popular": "yes",
-    "category": "Drama",
+    "category": "Romance",
     "languages": {
       "English": {
         "episodes": [
@@ -208,7 +208,7 @@
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTumNZU3oDHISRljRUZYN2OTqySBAUsDjoRJw&s",
     "rated": "PG-13",
     "popular": "no",
-    "category": "Comedy",
+    "category": "Zombie",
     "languages": {
       "English": {
         "episodes": [
@@ -259,7 +259,7 @@
     "poster": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/08/fileimage-2025-08-21t153231-1755770556.jpg",
     "rated": "R",
     "popular": "no",
-    "category": "Thriller",
+    "category": "Comedy",
     "languages": {
       "English": {
         "episodes": [
@@ -412,7 +412,7 @@
     "poster": "https://s1.dmcdn.net/v/SJNOs1enLCXxAbRty/x1080",
     "rated": "PG-13",
     "popular": "no",
-    "category": "Romance",
+    "category": "Drama",
     "languages": {
       "English": {
         "episodes": [
@@ -460,10 +460,10 @@
   },
   {
     "title": "Maamla Legal Hai",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLKEed-C79TKIzH9TnWVKgc_lWRN0DsUFGTg&s",
+    "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq6cE6yQ8Pzc0mZOTxmlG6dhYUj2veSjVXcw9e8JotscETRztV4BEM6aes9W--rhzg7ZL0HubtsmvCjyg89gk2MzV9DFXBtB6wOSnrJw",
     "rated": "R",
     "popular": "yes",
-    "category": "Mystery",
+    "category": "Comedy",
     "languages": {
       "English": {
         "episodes": [
@@ -514,7 +514,7 @@
     "poster": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbWJhyKeHwXAo2EFbS4iFZADP5UsB3VIPubduCaB2MS7GHVkEySjvrT6zjqWJPgumGfEoLEEpASgTOft58YUp7liGd2o0E1EaJXcreJRw1gdFi4_xo2vjGk5.jpg?r=6c7",
     "rated": "PG-13",
     "popular": "no",
-    "category": "Crime",
+    "category": "Thriller",
     "languages": {
       "English": {
         "episodes": [
@@ -565,7 +565,7 @@
     "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=1920/keyart/GYQ4MW246-backdrop_wide",
     "rated": "R",
     "popular": "no",
-    "category": "Action",
+    "category": "Anime",
     "languages": {
       "English": {
         "episodes": [
@@ -616,7 +616,7 @@
     "poster": "https://images.indianexpress.com/2025/09/Do-You-Wanna-Partner-review-j.jpg",
     "rated": "PG-13",
     "popular": "yes",
-    "category": "Documentary",
+    "category": "Romance",
     "languages": {
       "English": {
         "episodes": [
@@ -667,7 +667,7 @@
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXCwMAKPaAxzG2nFDip7VkOU6V8Wg3z4Qu8oZkMAgL3ScYje2zK5vHT7UQ98gWWKnkSyc&usqp=CAU",
     "rated": "R",
     "popular": "no",
-    "category": "Biography",
+    "category": "Drama",
     "languages": {
       "English": {
         "episodes": [
@@ -718,7 +718,7 @@
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/c4cc3df32fbbd4ee108aaaed77d1d8687cc39ead4400c33c0ec5df55aa5945e9._SX1080_FMjpg_.jpg",
     "rated": "PG-13",
     "popular": "no",
-    "category": "Musical",
+    "category": "Superhero",
     "languages": {
       "English": {
         "episodes": [
@@ -769,7 +769,7 @@
     "poster": "https://static.kinoafisha.info/k/series_shots/1920x1080/upload/series/frames/1/8/7/3781/800ebc69b7460461ac94a3d1bc16f215.jpg",
     "rated": "R",
     "popular": "yes",
-    "category": "War",
+    "category": "Crime",
     "languages": {
       "English": {
         "episodes": [
@@ -820,7 +820,7 @@
     "poster": "https://m.media-amazon.com/images/S/pv-target-images/6e0e17d912c590a60170ffec459b884beaab71cccb017e0562e997da2be38f35.jpg",
     "rated": "PG-13",
     "popular": "no",
-    "category": "Western",
+    "category": "Drama",
     "languages": {
       "English": {
         "episodes": [
@@ -871,7 +871,7 @@
     "poster": "https://resizing.flixster.com/5zGmVkuCHiAYdw43B0U0SA5YW1c=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25635930_b_h8_aa.jpg",
     "rated": "R",
     "popular": "no",
-    "category": "Animation",
+    "category": "Thriller",
     "languages": {
       "English": {
         "episodes": [
@@ -922,7 +922,7 @@
     "poster": "https://static.toiimg.com/photo/msid-80247988.jpeg",
     "rated": "PG-13",
     "popular": "yes",
-    "category": "Family",
+    "category": "Political",
     "languages": {
       "English": {
         "episodes": [
@@ -973,7 +973,7 @@
     "poster": "https://www.youthkiawaaz.com/wp-content/uploads/2023/08/made-in-heaven-season-2-episode-1-recap-ending-explained-64d4f8d84c1fc9652581-900.webp",
     "rated": "R",
     "popular": "no",
-    "category": "Sports",
+    "category": "Drama",
     "languages": {
       "English": {
         "episodes": [
