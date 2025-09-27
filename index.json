@@ -1,22 +1,23 @@
 [
   {
-    "title": "The Great Adventure",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
+    "title": "Series 1",
+    "poster": "https://example.com/poster/series1.jpg",
+    "url": "https://example.com/series/series-1",
     "rated": "PG-13",
     "popular": "yes",
+    "category": "Adventure",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
+            "title": "Episode 1 of Series 1",
+            "url": "https://example.com/series/series-1/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
+            "title": "Episode 2 of Series 1",
+            "url": "https://example.com/series/series-1/en-ep2"
           }
         ]
       },
@@ -24,13 +25,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+            "title": "एपिसोड 1 - Series 1",
+            "url": "https://example.com/series/series-1/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 1",
+            "url": "https://example.com/series/series-1/hi-ep2"
           }
         ]
       },
@@ -38,36 +39,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 1",
+            "url": "https://example.com/series/series-1/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 1",
+            "url": "https://example.com/series/series-1/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
+    "title": "Series 2",
+    "poster": "https://example.com/poster/series2.jpg",
+    "url": "https://example.com/series/series-2",
+    "rated": "R",
     "popular": "no",
+    "category": "Fantasy",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
+            "title": "Episode 1 of Series 2",
+            "url": "https://example.com/series/series-2/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
+            "title": "Episode 2 of Series 2",
+            "url": "https://example.com/series/series-2/en-ep2"
           }
         ]
       },
@@ -75,64 +77,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+            "title": "एपिसोड 1 - Series 2",
+            "url": "https://example.com/series/series-2/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
-          }
-        ]
-      },
-      "Chinese": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "The Great Adventure Part 3",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
-    "rated": "PG-13",
-    "popular": "yes",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
-          },
-          {
-            "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 2",
+            "url": "https://example.com/series/series-2/hi-ep2"
           }
         ]
       },
@@ -140,87 +91,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 2",
+            "url": "https://example.com/series/series-2/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 2",
+            "url": "https://example.com/series/series-2/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales Part 4",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
-    "popular": "no",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
-          }
-        ]
-      },
-      "Chinese": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "The Great Adventure Part 5",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
+    "title": "Series 3",
+    "poster": "https://example.com/poster/series3.jpg",
+    "url": "https://example.com/series/series-3",
     "rated": "PG-13",
-    "popular": "yes",
+    "popular": "no",
+    "category": "Historical",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
+            "title": "Episode 1 of Series 3",
+            "url": "https://example.com/series/series-3/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
+            "title": "Episode 2 of Series 3",
+            "url": "https://example.com/series/series-3/en-ep2"
           }
         ]
       },
@@ -228,13 +129,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+            "title": "एपिसोड 1 - Series 3",
+            "url": "https://example.com/series/series-3/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 3",
+            "url": "https://example.com/series/series-3/hi-ep2"
           }
         ]
       },
@@ -242,87 +143,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 3",
+            "url": "https://example.com/series/series-3/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 3",
+            "url": "https://example.com/series/series-3/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales Part 6",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
-    "popular": "no",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
-          }
-        ]
-      },
-      "Chinese": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "The Great Adventure Part 7",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
-    "rated": "PG-13",
+    "title": "Series 4",
+    "poster": "https://example.com/poster/series4.jpg",
+    "url": "https://example.com/series/series-4",
+    "rated": "R",
     "popular": "yes",
+    "category": "Drama",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
+            "title": "Episode 1 of Series 4",
+            "url": "https://example.com/series/series-4/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
+            "title": "Episode 2 of Series 4",
+            "url": "https://example.com/series/series-4/en-ep2"
           }
         ]
       },
@@ -330,13 +181,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+            "title": "एपिसोड 1 - Series 4",
+            "url": "https://example.com/series/series-4/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 4",
+            "url": "https://example.com/series/series-4/hi-ep2"
           }
         ]
       },
@@ -344,87 +195,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 4",
+            "url": "https://example.com/series/series-4/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 4",
+            "url": "https://example.com/series/series-4/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales Part 8",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
-    "popular": "no",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
-          }
-        ]
-      },
-      "Chinese": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "The Great Adventure Part 9",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
+    "title": "Series 5",
+    "poster": "https://example.com/poster/series5.jpg",
+    "url": "https://example.com/series/series-5",
     "rated": "PG-13",
-    "popular": "yes",
+    "popular": "no",
+    "category": "Comedy",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
+            "title": "Episode 1 of Series 5",
+            "url": "https://example.com/series/series-5/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
+            "title": "Episode 2 of Series 5",
+            "url": "https://example.com/series/series-5/en-ep2"
           }
         ]
       },
@@ -432,13 +233,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+            "title": "एपिसोड 1 - Series 5",
+            "url": "https://example.com/series/series-5/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 5",
+            "url": "https://example.com/series/series-5/hi-ep2"
           }
         ]
       },
@@ -446,36 +247,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 5",
+            "url": "https://example.com/series/series-5/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 5",
+            "url": "https://example.com/series/series-5/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales Part 10",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
+    "title": "Series 6",
+    "poster": "https://example.com/poster/series6.jpg",
+    "url": "https://example.com/series/series-6",
+    "rated": "R",
     "popular": "no",
+    "category": "Thriller",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
+            "title": "Episode 1 of Series 6",
+            "url": "https://example.com/series/series-6/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
+            "title": "Episode 2 of Series 6",
+            "url": "https://example.com/series/series-6/en-ep2"
           }
         ]
       },
@@ -483,64 +285,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+            "title": "एपिसोड 1 - Series 6",
+            "url": "https://example.com/series/series-6/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
-          }
-        ]
-      },
-      "Chinese": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "The Great Adventure Part 11",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
-    "rated": "PG-13",
-    "popular": "yes",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
-          },
-          {
-            "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 6",
+            "url": "https://example.com/series/series-6/hi-ep2"
           }
         ]
       },
@@ -548,87 +299,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 6",
+            "url": "https://example.com/series/series-6/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 6",
+            "url": "https://example.com/series/series-6/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales Part 12",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
-    "popular": "no",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
-          }
-        ]
-      },
-      "Chinese": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "The Great Adventure Part 13",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
+    "title": "Series 7",
+    "poster": "https://example.com/poster/series7.jpg",
+    "url": "https://example.com/series/series-7",
     "rated": "PG-13",
     "popular": "yes",
+    "category": "Horror",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
+            "title": "Episode 1 of Series 7",
+            "url": "https://example.com/series/series-7/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
+            "title": "Episode 2 of Series 7",
+            "url": "https://example.com/series/series-7/en-ep2"
           }
         ]
       },
@@ -636,13 +337,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+            "title": "एपिसोड 1 - Series 7",
+            "url": "https://example.com/series/series-7/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 7",
+            "url": "https://example.com/series/series-7/hi-ep2"
           }
         ]
       },
@@ -650,36 +351,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 7",
+            "url": "https://example.com/series/series-7/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 7",
+            "url": "https://example.com/series/series-7/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales Part 14",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
+    "title": "Series 8",
+    "poster": "https://example.com/poster/series8.jpg",
+    "url": "https://example.com/series/series-8",
+    "rated": "R",
     "popular": "no",
+    "category": "Sci-Fi",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
+            "title": "Episode 1 of Series 8",
+            "url": "https://example.com/series/series-8/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
+            "title": "Episode 2 of Series 8",
+            "url": "https://example.com/series/series-8/en-ep2"
           }
         ]
       },
@@ -687,64 +389,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+            "title": "एपिसोड 1 - Series 8",
+            "url": "https://example.com/series/series-8/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
-          }
-        ]
-      },
-      "Chinese": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "The Great Adventure Part 15",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
-    "rated": "PG-13",
-    "popular": "yes",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
-          },
-          {
-            "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 8",
+            "url": "https://example.com/series/series-8/hi-ep2"
           }
         ]
       },
@@ -752,87 +403,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 8",
+            "url": "https://example.com/series/series-8/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 8",
+            "url": "https://example.com/series/series-8/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales Part 16",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
-    "popular": "no",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
-          }
-        ]
-      },
-      "Chinese": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "The Great Adventure Part 17",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
+    "title": "Series 9",
+    "poster": "https://example.com/poster/series9.jpg",
+    "url": "https://example.com/series/series-9",
     "rated": "PG-13",
-    "popular": "yes",
+    "popular": "no",
+    "category": "Romance",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
+            "title": "Episode 1 of Series 9",
+            "url": "https://example.com/series/series-9/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
+            "title": "Episode 2 of Series 9",
+            "url": "https://example.com/series/series-9/en-ep2"
           }
         ]
       },
@@ -840,13 +441,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+            "title": "एपिसोड 1 - Series 9",
+            "url": "https://example.com/series/series-9/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 9",
+            "url": "https://example.com/series/series-9/hi-ep2"
           }
         ]
       },
@@ -854,87 +455,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 9",
+            "url": "https://example.com/series/series-9/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 9",
+            "url": "https://example.com/series/series-9/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales Part 18",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
-    "popular": "no",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
-          }
-        ]
-      },
-      "Chinese": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "The Great Adventure Part 19",
-    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
-    "url": "https://example.com/series/the-great-adventure",
-    "rated": "PG-13",
+    "title": "Series 10",
+    "poster": "https://example.com/poster/series10.jpg",
+    "url": "https://example.com/series/series-10",
+    "rated": "R",
     "popular": "yes",
+    "category": "Mystery",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "The Beginning",
-            "url": "https://example.com/series/the-great-adventure/ep1"
+            "title": "Episode 1 of Series 10",
+            "url": "https://example.com/series/series-10/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Journey Continues",
-            "url": "https://example.com/series/the-great-adventure/ep2"
+            "title": "Episode 2 of Series 10",
+            "url": "https://example.com/series/series-10/en-ep2"
           }
         ]
       },
@@ -942,13 +493,13 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "शुरुआत",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+            "title": "एपिसोड 1 - Series 10",
+            "url": "https://example.com/series/series-10/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "सफ़र जारी",
-            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+            "title": "एपिसोड 2 - Series 10",
+            "url": "https://example.com/series/series-10/hi-ep2"
           }
         ]
       },
@@ -956,36 +507,37 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "El Comienzo",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+            "title": "Episodio 1 - Serie 10",
+            "url": "https://example.com/series/series-10/es-ep1"
           },
           {
             "episode": 2,
-            "title": "El Viaje Continúa",
-            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+            "title": "Episodio 2 - Serie 10",
+            "url": "https://example.com/series/series-10/es-ep2"
           }
         ]
       }
     }
   },
   {
-    "title": "Mystic Tales Part 20",
-    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
-    "url": "https://example.com/series/mystic-tales",
-    "rated": "TV-MA",
+    "title": "Series 11",
+    "poster": "https://example.com/poster/series11.jpg",
+    "url": "https://example.com/series/series-11",
+    "rated": "PG-13",
     "popular": "no",
+    "category": "Crime",
     "languages": {
       "English": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Shadows Rise",
-            "url": "https://example.com/series/mystic-tales/en-ep1"
+            "title": "Episode 1 of Series 11",
+            "url": "https://example.com/series/series-11/en-ep1"
           },
           {
             "episode": 2,
-            "title": "The Hidden Truth",
-            "url": "https://example.com/series/mystic-tales/en-ep2"
+            "title": "Episode 2 of Series 11",
+            "url": "https://example.com/series/series-11/en-ep2"
           }
         ]
       },
@@ -993,27 +545,495 @@
         "episodes": [
           {
             "episode": 1,
-            "title": "छाया का उदय",
-            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+            "title": "एपिसोड 1 - Series 11",
+            "url": "https://example.com/series/series-11/hi-ep1"
           },
           {
             "episode": 2,
-            "title": "छिपा हुआ सच",
-            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+            "title": "एपिसोड 2 - Series 11",
+            "url": "https://example.com/series/series-11/hi-ep2"
           }
         ]
       },
-      "Chinese": {
+      "Spanish": {
         "episodes": [
           {
             "episode": 1,
-            "title": "影子崛起",
-            "url": "https://example.com/series/mystic-tales/ch-ep1"
+            "title": "Episodio 1 - Serie 11",
+            "url": "https://example.com/series/series-11/es-ep1"
           },
           {
             "episode": 2,
-            "title": "隐藏的真相",
-            "url": "https://example.com/series/mystic-tales/ch-ep2"
+            "title": "Episodio 2 - Serie 11",
+            "url": "https://example.com/series/series-11/es-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Series 12",
+    "poster": "https://example.com/poster/series12.jpg",
+    "url": "https://example.com/series/series-12",
+    "rated": "R",
+    "popular": "no",
+    "category": "Action",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episode 1 of Series 12",
+            "url": "https://example.com/series/series-12/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episode 2 of Series 12",
+            "url": "https://example.com/series/series-12/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "एपिसोड 1 - Series 12",
+            "url": "https://example.com/series/series-12/hi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "एपिसोड 2 - Series 12",
+            "url": "https://example.com/series/series-12/hi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episodio 1 - Serie 12",
+            "url": "https://example.com/series/series-12/es-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episodio 2 - Serie 12",
+            "url": "https://example.com/series/series-12/es-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Series 13",
+    "poster": "https://example.com/poster/series13.jpg",
+    "url": "https://example.com/series/series-13",
+    "rated": "PG-13",
+    "popular": "yes",
+    "category": "Documentary",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episode 1 of Series 13",
+            "url": "https://example.com/series/series-13/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episode 2 of Series 13",
+            "url": "https://example.com/series/series-13/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "एपिसोड 1 - Series 13",
+            "url": "https://example.com/series/series-13/hi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "एपिसोड 2 - Series 13",
+            "url": "https://example.com/series/series-13/hi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episodio 1 - Serie 13",
+            "url": "https://example.com/series/series-13/es-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episodio 2 - Serie 13",
+            "url": "https://example.com/series/series-13/es-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Series 14",
+    "poster": "https://example.com/poster/series14.jpg",
+    "url": "https://example.com/series/series-14",
+    "rated": "R",
+    "popular": "no",
+    "category": "Biography",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episode 1 of Series 14",
+            "url": "https://example.com/series/series-14/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episode 2 of Series 14",
+            "url": "https://example.com/series/series-14/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "एपिसोड 1 - Series 14",
+            "url": "https://example.com/series/series-14/hi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "एपिसोड 2 - Series 14",
+            "url": "https://example.com/series/series-14/hi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episodio 1 - Serie 14",
+            "url": "https://example.com/series/series-14/es-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episodio 2 - Serie 14",
+            "url": "https://example.com/series/series-14/es-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Series 15",
+    "poster": "https://example.com/poster/series15.jpg",
+    "url": "https://example.com/series/series-15",
+    "rated": "PG-13",
+    "popular": "no",
+    "category": "Musical",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episode 1 of Series 15",
+            "url": "https://example.com/series/series-15/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episode 2 of Series 15",
+            "url": "https://example.com/series/series-15/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "एपिसोड 1 - Series 15",
+            "url": "https://example.com/series/series-15/hi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "एपिसोड 2 - Series 15",
+            "url": "https://example.com/series/series-15/hi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episodio 1 - Serie 15",
+            "url": "https://example.com/series/series-15/es-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episodio 2 - Serie 15",
+            "url": "https://example.com/series/series-15/es-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Series 16",
+    "poster": "https://example.com/poster/series16.jpg",
+    "url": "https://example.com/series/series-16",
+    "rated": "R",
+    "popular": "yes",
+    "category": "War",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episode 1 of Series 16",
+            "url": "https://example.com/series/series-16/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episode 2 of Series 16",
+            "url": "https://example.com/series/series-16/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "एपिसोड 1 - Series 16",
+            "url": "https://example.com/series/series-16/hi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "एपिसोड 2 - Series 16",
+            "url": "https://example.com/series/series-16/hi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episodio 1 - Serie 16",
+            "url": "https://example.com/series/series-16/es-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episodio 2 - Serie 16",
+            "url": "https://example.com/series/series-16/es-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Series 17",
+    "poster": "https://example.com/poster/series17.jpg",
+    "url": "https://example.com/series/series-17",
+    "rated": "PG-13",
+    "popular": "no",
+    "category": "Western",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episode 1 of Series 17",
+            "url": "https://example.com/series/series-17/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episode 2 of Series 17",
+            "url": "https://example.com/series/series-17/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "एपिसोड 1 - Series 17",
+            "url": "https://example.com/series/series-17/hi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "एपिसोड 2 - Series 17",
+            "url": "https://example.com/series/series-17/hi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episodio 1 - Serie 17",
+            "url": "https://example.com/series/series-17/es-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episodio 2 - Serie 17",
+            "url": "https://example.com/series/series-17/es-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Series 18",
+    "poster": "https://example.com/poster/series18.jpg",
+    "url": "https://example.com/series/series-18",
+    "rated": "R",
+    "popular": "no",
+    "category": "Animation",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episode 1 of Series 18",
+            "url": "https://example.com/series/series-18/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episode 2 of Series 18",
+            "url": "https://example.com/series/series-18/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "एपिसोड 1 - Series 18",
+            "url": "https://example.com/series/series-18/hi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "एपिसोड 2 - Series 18",
+            "url": "https://example.com/series/series-18/hi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episodio 1 - Serie 18",
+            "url": "https://example.com/series/series-18/es-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episodio 2 - Serie 18",
+            "url": "https://example.com/series/series-18/es-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Series 19",
+    "poster": "https://example.com/poster/series19.jpg",
+    "url": "https://example.com/series/series-19",
+    "rated": "PG-13",
+    "popular": "yes",
+    "category": "Family",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episode 1 of Series 19",
+            "url": "https://example.com/series/series-19/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episode 2 of Series 19",
+            "url": "https://example.com/series/series-19/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "एपिसोड 1 - Series 19",
+            "url": "https://example.com/series/series-19/hi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "एपिसोड 2 - Series 19",
+            "url": "https://example.com/series/series-19/hi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episodio 1 - Serie 19",
+            "url": "https://example.com/series/series-19/es-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episodio 2 - Serie 19",
+            "url": "https://example.com/series/series-19/es-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Series 20",
+    "poster": "https://example.com/poster/series20.jpg",
+    "url": "https://example.com/series/series-20",
+    "rated": "R",
+    "popular": "no",
+    "category": "Sports",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episode 1 of Series 20",
+            "url": "https://example.com/series/series-20/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episode 2 of Series 20",
+            "url": "https://example.com/series/series-20/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "एपिसोड 1 - Series 20",
+            "url": "https://example.com/series/series-20/hi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "एपिसोड 2 - Series 20",
+            "url": "https://example.com/series/series-20/hi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Episodio 1 - Serie 20",
+            "url": "https://example.com/series/series-20/es-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "Episodio 2 - Serie 20",
+            "url": "https://example.com/series/series-20/es-ep2"
           }
         ]
       }
