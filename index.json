@@ -2,7 +2,6 @@
   {
     "title": "Kota Factory",
     "poster": "https://newsroompost.com/wp-content/uploads/2024/06/kota-1.jpg",
-    "url": "https://www.youtube.com/embed/JWbnEt3xuos?autoplay=1&autohide=0&modestbranding=0&rel=0&loop=1&showinfo=0&disablekb=0&enablejsapi=1&iv_load_policy=3%22%20%20%20%20%20%20%20%20%20%20%20%20frameborder=%220%22",
     "rated": "PG-13",
     "popular": "yes",
     "category": "Adventure",
@@ -12,12 +11,12 @@
           {
             "episode": 1,
             "title": "Episode 1 of Series 1",
-            "url": "https://example.com/series/series-1/en-ep1"
+            "url": "https://www.youtube.com/embed/JWbnEt3xuos?autoplay=1&autohide=0&modestbranding=0&rel=0&loop=1&showinfo=0&disablekb=0&enablejsapi=1&iv_load_policy=3%22%20%20%20%20%20%20%20%20%20%20%20%20frameborder=%220%22"
           },
           {
             "episode": 2,
             "title": "Episode 2 of Series 1",
-            "url": "https://example.com/series/series-1/en-ep2"
+            "url": "https://www.youtube.com/embed/JWbnEt3xuos?autoplay=1&autohide=0&modestbranding=0&rel=0&loop=1&showinfo=0&disablekb=0&enablejsapi=1&iv_load_policy=3%22%20%20%20%20%20%20%20%20%20%20%20%20frameborder=%220%22"
           }
         ]
       },
@@ -54,7 +53,6 @@
   {
     "title": "Series 2",
     "poster": "https://example.com/poster/series2.jpg",
-    "url": "https://example.com/series/series-2",
     "rated": "R",
     "popular": "no",
     "category": "Fantasy",
@@ -106,7 +104,6 @@
   {
     "title": "Series 3",
     "poster": "https://example.com/poster/series3.jpg",
-    "url": "https://example.com/series/series-3",
     "rated": "PG-13",
     "popular": "no",
     "category": "Historical",
@@ -158,7 +155,6 @@
   {
     "title": "Series 4",
     "poster": "https://example.com/poster/series4.jpg",
-    "url": "https://example.com/series/series-4",
     "rated": "R",
     "popular": "yes",
     "category": "Drama",
@@ -210,7 +206,6 @@
   {
     "title": "Series 5",
     "poster": "https://example.com/poster/series5.jpg",
-    "url": "https://example.com/series/series-5",
     "rated": "PG-13",
     "popular": "no",
     "category": "Comedy",
@@ -262,7 +257,6 @@
   {
     "title": "Series 6",
     "poster": "https://example.com/poster/series6.jpg",
-    "url": "https://example.com/series/series-6",
     "rated": "R",
     "popular": "no",
     "category": "Thriller",
@@ -314,7 +308,6 @@
   {
     "title": "Series 7",
     "poster": "https://example.com/poster/series7.jpg",
-    "url": "https://example.com/series/series-7",
     "rated": "PG-13",
     "popular": "yes",
     "category": "Horror",
@@ -366,7 +359,6 @@
   {
     "title": "Series 8",
     "poster": "https://example.com/poster/series8.jpg",
-    "url": "https://example.com/series/series-8",
     "rated": "R",
     "popular": "no",
     "category": "Sci-Fi",
@@ -418,7 +410,6 @@
   {
     "title": "Series 9",
     "poster": "https://example.com/poster/series9.jpg",
-    "url": "https://example.com/series/series-9",
     "rated": "PG-13",
     "popular": "no",
     "category": "Romance",
@@ -470,7 +461,6 @@
   {
     "title": "Series 10",
     "poster": "https://example.com/poster/series10.jpg",
-    "url": "https://example.com/series/series-10",
     "rated": "R",
     "popular": "yes",
     "category": "Mystery",
@@ -522,7 +512,6 @@
   {
     "title": "Series 11",
     "poster": "https://example.com/poster/series11.jpg",
-    "url": "https://example.com/series/series-11",
     "rated": "PG-13",
     "popular": "no",
     "category": "Crime",
@@ -574,7 +563,6 @@
   {
     "title": "Series 12",
     "poster": "https://example.com/poster/series12.jpg",
-    "url": "https://example.com/series/series-12",
     "rated": "R",
     "popular": "no",
     "category": "Action",
@@ -626,7 +614,6 @@
   {
     "title": "Series 13",
     "poster": "https://example.com/poster/series13.jpg",
-    "url": "https://example.com/series/series-13",
     "rated": "PG-13",
     "popular": "yes",
     "category": "Documentary",
@@ -678,7 +665,6 @@
   {
     "title": "Series 14",
     "poster": "https://example.com/poster/series14.jpg",
-    "url": "https://example.com/series/series-14",
     "rated": "R",
     "popular": "no",
     "category": "Biography",
@@ -730,7 +716,6 @@
   {
     "title": "Series 15",
     "poster": "https://example.com/poster/series15.jpg",
-    "url": "https://example.com/series/series-15",
     "rated": "PG-13",
     "popular": "no",
     "category": "Musical",
@@ -782,7 +767,6 @@
   {
     "title": "Series 16",
     "poster": "https://example.com/poster/series16.jpg",
-    "url": "https://example.com/series/series-16",
     "rated": "R",
     "popular": "yes",
     "category": "War",
@@ -834,7 +818,6 @@
   {
     "title": "Series 17",
     "poster": "https://example.com/poster/series17.jpg",
-    "url": "https://example.com/series/series-17",
     "rated": "PG-13",
     "popular": "no",
     "category": "Western",
@@ -886,7 +869,6 @@
   {
     "title": "Series 18",
     "poster": "https://example.com/poster/series18.jpg",
-    "url": "https://example.com/series/series-18",
     "rated": "R",
     "popular": "no",
     "category": "Animation",
@@ -938,7 +920,6 @@
   {
     "title": "Series 19",
     "poster": "https://example.com/poster/series19.jpg",
-    "url": "https://example.com/series/series-19",
     "rated": "PG-13",
     "popular": "yes",
     "category": "Family",
@@ -990,7 +971,6 @@
   {
     "title": "Series 20",
     "poster": "https://example.com/poster/series20.jpg",
-    "url": "https://example.com/series/series-20",
     "rated": "R",
     "popular": "no",
     "category": "Sports",
