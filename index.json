@@ -1,0 +1,1022 @@
+[
+  {
+    "title": "The Great Adventure",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Great Adventure Part 3",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales Part 4",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Great Adventure Part 5",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales Part 6",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Great Adventure Part 7",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales Part 8",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Great Adventure Part 9",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales Part 10",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Great Adventure Part 11",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales Part 12",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Great Adventure Part 13",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales Part 14",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Great Adventure Part 15",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales Part 16",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Great Adventure Part 17",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales Part 18",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Great Adventure Part 19",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODIyYTM2OTctMDMxMC00YWQ2LWE1NDctYmJmZTgyZjcxN2Y3XkEyXkFqcGc@._V1_.jpg",
+    "url": "https://example.com/series/the-great-adventure",
+    "rated": "PG-13",
+    "popular": "yes",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "The Beginning",
+            "url": "https://example.com/series/the-great-adventure/ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Journey Continues",
+            "url": "https://example.com/series/the-great-adventure/ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "शुरुआत",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "सफ़र जारी",
+            "url": "https://example.com/series/the-great-adventure/hindi-ep2"
+          }
+        ]
+      },
+      "Spanish": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "El Comienzo",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "El Viaje Continúa",
+            "url": "https://example.com/series/the-great-adventure/spanish-ep2"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mystic Tales Part 20",
+    "poster": "https://asset-2.tribunnews.com/batam/foto/bank/originals/Link-Nonton-Mystic-Tales-Drama-China-Kolosal-Romantis-Dibintangi-He-Chang-Xi-dan-Zhao-Jia-Min.jpg",
+    "url": "https://example.com/series/mystic-tales",
+    "rated": "TV-MA",
+    "popular": "no",
+    "languages": {
+      "English": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "Shadows Rise",
+            "url": "https://example.com/series/mystic-tales/en-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "The Hidden Truth",
+            "url": "https://example.com/series/mystic-tales/en-ep2"
+          }
+        ]
+      },
+      "Hindi": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "छाया का उदय",
+            "url": "https://example.com/series/mystic-tales/hindi-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "छिपा हुआ सच",
+            "url": "https://example.com/series/mystic-tales/hindi-ep2"
+          }
+        ]
+      },
+      "Chinese": {
+        "episodes": [
+          {
+            "episode": 1,
+            "title": "影子崛起",
+            "url": "https://example.com/series/mystic-tales/ch-ep1"
+          },
+          {
+            "episode": 2,
+            "title": "隐藏的真相",
+            "url": "https://example.com/series/mystic-tales/ch-ep2"
+          }
+        ]
+      }
+    }
+  }
+]
