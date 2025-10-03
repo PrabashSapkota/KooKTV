@@ -77,49 +77,16 @@
     "popular": "yes",
     "category": "Comedy",
     "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 2",
-            "url": "https://example.com/series/series-2/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 2",
-            "url": "https://example.com/series/series-2/en-ep2"
-          }
-        ]
-      },
+      
       "Hindi": {
         "episodes": [
           {
             "episode": 1,
-            "title": "एपिसोड 1 - Series 2",
-            "url": "https://example.com/series/series-2/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 2",
-            "url": "https://example.com/series/series-2/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 2",
-            "url": "https://example.com/series/series-2/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 2",
-            "url": "https://example.com/series/series-2/es-ep2"
+            "title": "Complete एपिसोड",
+            "url": "https://full4.upns.online/#pumxkp"
           }
         ]
       }
-    }
   },
   {
     "title": "When Life Gives You Tangerines",
