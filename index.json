@@ -1,955 +1,201 @@
 [
   {
     "title": "Revenged Love",
-    "poster": "https://1.vikiplatform.com/c/41152c/23c6549f32.jpg?x=b",
-    "rated": "19+",
+    "poster": "",  // poster URL not found
+    "rated": "",
     "popular": "yes",
-    "category": "Drama",
+    "category": "BL / Romance",
     "languages": {
-      "English": {
+      "Chinese (Mandarin)": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Hindi/English-All Episodes",
-            "url": "https://intos382gos.com/play/tt10919420"
+            "title": "Episode 1",
+            "url": "2025-06"   // approximate
+          },
+          {
+            "episode": 19,
+            "title": "Final Episode",
+            "url": "2025-08"   // approximate
           }
         ]
       }
     }
   },
   {
-    "title": "The Ba***ds of Bollywood",
-    "poster": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABeewt14o_u0CjwVEWXSicUtAKg1HxRagqWgH8pD39JQUJQEgKNJQ78dGMWuaqeyClFMhH9IcuP4uxEH-b5ASxGbdNWM2aDxZJDOv.jpg?r=f5f",
-    "rated": "TV-MA",
+    "title": "Kill To Love",
+    "poster": "",
+    "rated": "",
     "popular": "yes",
-    "category": "Comedy",
+    "category": "BL / Romance / Historical / War",
     "languages": {
-      "Hindi": {
+      "Chinese (Mandarin)": {
         "episodes": [
-          { "episode": 1, "title": "एपिसोड-1", "url": "https://full4.upns.online/#pumxkp" },
-          { "episode": 2, "title": "एपिसोड-2", "url": "https://full4.upns.online/#twrdwb" },
-          { "episode": 3, "title": "एपिसोड-3", "url": "https://full4.upns.online/#mewaso" },
-          { "episode": 4, "title": "एपिसोड-4", "url": "https://full4.upns.online/#ipf1ua" },
-          { "episode": 5, "title": "एपिसोड-5", "url": "https://full4.upns.online/#6s1zuo" },
-          { "episode": 6, "title": "एपिसोड-6", "url": "https://full4.upns.online/#6s1zug" },
-          { "episode": 7, "title": "एपिसोड-7", "url": "https://full4.upns.online/#3adob9" }
+          {
+            "episode": 1,
+            "title": "Episode 1",
+            "url": "2025-08"   // approximate
+          }
+          // more episodes ongoing
         ]
       }
     }
   },
   {
-    "title": "When Life Gives You Tangerines",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrdGDD5bUW9rbLEaHpymOrGsVHLkHKydm4CQ&s",
-    "rated": "PG-13",
-    "popular": "no",
-    "category": "Drama",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 3",
-            "url": "https://example.com/series/series-3/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 3",
-            "url": "https://example.com/series/series-3/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 3",
-            "url": "https://example.com/series/series-3/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 3",
-            "url": "https://example.com/series/series-3/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 3",
-            "url": "https://example.com/series/series-3/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 3",
-            "url": "https://example.com/series/series-3/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "You and Everything Else",
-    "poster": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABUdrS-n4PStA7nVfbFn4WID2K9ztTNiUeeUMwQX5o5g_8HJDY5z-QzygPojCaSAFJL3fT05zK7SVCTi2V6y3CKQ-lbxIbB_h9ZEAuxPwOp765Gd-_ejcNA9W9A.jpg?r=5df",
-    "rated": "R",
+    "title": "ABO Desire",
+    "poster": "",
+    "rated": "",
     "popular": "yes",
-    "category": "Romance",
+    "category": "BL / Fantasy / Omegaverse",
     "languages": {
-      "English": {
+      "Chinese (Mandarin)": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Episode 1 of Series 4",
-            "url": "https://example.com/series/series-4/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 4",
-            "url": "https://example.com/series/series-4/en-ep2"
+            "title": "Episode 1",
+            "url": "2025"  // already started in 2025
           }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 4",
-            "url": "https://example.com/series/series-4/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 4",
-            "url": "https://example.com/series/series-4/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 4",
-            "url": "https://example.com/series/series-4/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 4",
-            "url": "https://example.com/series/series-4/es-ep2"
-          }
+          // continuing
         ]
       }
     }
   },
   {
-    "title": "All of Us Are Dead",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTumNZU3oDHISRljRUZYN2OTqySBAUsDjoRJw&s",
-    "rated": "PG-13",
-    "popular": "no",
-    "category": "Zombie",
+    "title": "Moon and Dust",
+    "poster": "",
+    "rated": "",
+    "popular": "moderate",
+    "category": "BL / Web Drama",
     "languages": {
-      "English": {
+      "Chinese (Mandarin)": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Episode 1 of Series 5",
-            "url": "https://example.com/series/series-5/en-ep1"
+            "title": "Episode 1",
+            "url": "2025-05-23"
           },
           {
-            "episode": 2,
-            "title": "Episode 2 of Series 5",
-            "url": "https://example.com/series/series-5/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 5",
-            "url": "https://example.com/series/series-5/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 5",
-            "url": "https://example.com/series/series-5/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 5",
-            "url": "https://example.com/series/series-5/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 5",
-            "url": "https://example.com/series/series-5/es-ep2"
+            "episode": 6,
+            "title": "Final Episode",
+            "url": "2025-June"  // approximate
           }
         ]
       }
     }
-  },
+  }
+]
+Juna
+[
   {
-    "title": "The Ba***ds of Bollywood",
-    "poster": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2025/08/fileimage-2025-08-21t153231-1755770556.jpg",
-    "rated": "R",
-    "popular": "no",
-    "category": "Comedy",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 6",
-            "url": "https://example.com/series/series-6/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 6",
-            "url": "https://example.com/series/series-6/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 6",
-            "url": "https://example.com/series/series-6/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 6",
-            "url": "https://example.com/series/series-6/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 6",
-            "url": "https://example.com/series/series-6/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 6",
-            "url": "https://example.com/series/series-6/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Stranger Things",
-    "poster": "https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/Z-WHgqd_TeJxSuha8aZ5WpyLcX8/AAAABVBoNoT7w9QWAzo9aiNmsP6QkJ3a_XcqYcrqa2qeocpgq77VkOSly7NEggsC_J2zw4NoVk32SsEsiSDOlIgVXFl-rIbNbrbHhIBN.jpg?r=611",
-    "rated": "PG-13",
+    "title": "No Mercy",
+    "poster": "https://kisskh.org/wp-content/uploads/2025/09/No-Mercy-2025.jpg",
+    "rated": "TV‑14",
     "popular": "yes",
-    "category": "Horror",
+    "category": "Crime / Thriller / Drama",
     "languages": {
-      "English": {
+      "Korean": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Episode 1 of Series 7",
-            "url": "https://example.com/series/series-7/en-ep1"
+            "title": "Episode 1",
+            "url": "2025‑09‑24"
           },
           {
-            "episode": 2,
-            "title": "Episode 2 of Series 7",
-            "url": "https://example.com/series/series-7/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 7",
-            "url": "https://example.com/series/series-7/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 7",
-            "url": "https://example.com/series/series-7/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 7",
-            "url": "https://example.com/series/series-7/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 7",
-            "url": "https://example.com/series/series-7/es-ep2"
+            "episode": 8,
+            "title": "Final Episode",
+            "url": "2025‑09‑25"
           }
         ]
       }
     }
   },
   {
-    "title": "Gen V",
-    "poster": "https://media.press.amazonmgmstudios.com/userfiles/images/image-20250531165305-1.jpeg",
-    "rated": "R",
-    "popular": "no",
-    "category": "Sci-Fi",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 8",
-            "url": "https://example.com/series/series-8/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 8",
-            "url": "https://example.com/series/series-8/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 8",
-            "url": "https://example.com/series/series-8/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 8",
-            "url": "https://example.com/series/series-8/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 8",
-            "url": "https://example.com/series/series-8/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 8",
-            "url": "https://example.com/series/series-8/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Rasbhari",
-    "poster": "https://s1.dmcdn.net/v/SJNOs1enLCXxAbRty/x1080",
-    "rated": "PG-13",
-    "popular": "no",
-    "category": "Drama",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 9",
-            "url": "https://example.com/series/series-9/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 9",
-            "url": "https://example.com/series/series-9/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 9",
-            "url": "https://example.com/series/series-9/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 9",
-            "url": "https://example.com/series/series-9/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 9",
-            "url": "https://example.com/series/series-9/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 9",
-            "url": "https://example.com/series/series-9/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Maamla Legal Hai",
-    "poster": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTq6cE6yQ8Pzc0mZOTxmlG6dhYUj2veSjVXcw9e8JotscETRztV4BEM6aes9W--rhzg7ZL0HubtsmvCjyg89gk2MzV9DFXBtB6wOSnrJw",
-    "rated": "R",
+    "title": "Tempest",
+    "poster": "https://kisskh.org/wp-content/uploads/2025/09/Tempest-2025.jpg",
+    "rated": "TV‑14",
     "popular": "yes",
-    "category": "Comedy",
+    "category": "Drama / Mystery / Thriller",
     "languages": {
-      "English": {
+      "Korean": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Episode 1 of Series 10",
-            "url": "https://example.com/series/series-10/en-ep1"
+            "title": "Episode 1",
+            "url": "2025‑09‑10"
           },
           {
-            "episode": 2,
-            "title": "Episode 2 of Series 10",
-            "url": "https://example.com/series/series-10/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 10",
-            "url": "https://example.com/series/series-10/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 10",
-            "url": "https://example.com/series/series-10/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 10",
-            "url": "https://example.com/series/series-10/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 10",
-            "url": "https://example.com/series/series-10/es-ep2"
+            "episode": 9,
+            "title": "Final Episode",
+            "url": "2025‑10‑01"
           }
         ]
       }
     }
   },
   {
-    "title": "Dark",
-    "poster": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/9pS1daC2n6UGc3dUogvWIPMR_OU/AAAABbWJhyKeHwXAo2EFbS4iFZADP5UsB3VIPubduCaB2MS7GHVkEySjvrT6zjqWJPgumGfEoLEEpASgTOft58YUp7liGd2o0E1EaJXcreJRw1gdFi4_xo2vjGk5.jpg?r=6c7",
-    "rated": "PG-13",
-    "popular": "no",
-    "category": "Thriller",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 11",
-            "url": "https://example.com/series/series-11/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 11",
-            "url": "https://example.com/series/series-11/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 11",
-            "url": "https://example.com/series/series-11/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 11",
-            "url": "https://example.com/series/series-11/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 11",
-            "url": "https://example.com/series/series-11/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 11",
-            "url": "https://example.com/series/series-11/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Naruto: Shippuden",
-    "poster": "https://imgsrv.crunchyroll.com/cdn-cgi/image/fit=cover,format=auto,quality=85,width=1920/keyart/GYQ4MW246-backdrop_wide",
-    "rated": "R",
-    "popular": "no",
-    "category": "Anime",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 12",
-            "url": "https://example.com/series/series-12/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 12",
-            "url": "https://example.com/series/series-12/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 12",
-            "url": "https://example.com/series/series-12/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 12",
-            "url": "https://example.com/series/series-12/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 12",
-            "url": "https://example.com/series/series-12/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 12",
-            "url": "https://example.com/series/series-12/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Do You Wanna Partner",
-    "poster": "https://images.indianexpress.com/2025/09/Do-You-Wanna-Partner-review-j.jpg",
-    "rated": "PG-13",
+    "title": "The Witch",
+    "poster": "https://kisskh.org/wp-content/uploads/2025/09/The-Witch-2025.jpg",
+    "rated": "TV‑14",
     "popular": "yes",
-    "category": "Romance",
+    "category": "Fantasy / Romance / Drama",
     "languages": {
-      "English": {
+      "Korean": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Episode 1 of Series 13",
-            "url": "https://example.com/series/series-13/en-ep1"
+            "title": "Episode 1",
+            "url": "2025‑09‑15"
           },
           {
-            "episode": 2,
-            "title": "Episode 2 of Series 13",
-            "url": "https://example.com/series/series-13/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 13",
-            "url": "https://example.com/series/series-13/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 13",
-            "url": "https://example.com/series/series-13/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 13",
-            "url": "https://example.com/series/series-13/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 13",
-            "url": "https://example.com/series/series-13/es-ep2"
+            "episode": 8,
+            "title": "Final Episode",
+            "url": "2025‑10‑06"
           }
         ]
       }
     }
   },
   {
-    "title": "Gram Chikitsalay",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXCwMAKPaAxzG2nFDip7VkOU6V8Wg3z4Qu8oZkMAgL3ScYje2zK5vHT7UQ98gWWKnkSyc&usqp=CAU",
-    "rated": "R",
-    "popular": "no",
-    "category": "Drama",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 14",
-            "url": "https://example.com/series/series-14/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 14",
-            "url": "https://example.com/series/series-14/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 14",
-            "url": "https://example.com/series/series-14/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 14",
-            "url": "https://example.com/series/series-14/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 14",
-            "url": "https://example.com/series/series-14/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 14",
-            "url": "https://example.com/series/series-14/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Titans",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/c4cc3df32fbbd4ee108aaaed77d1d8687cc39ead4400c33c0ec5df55aa5945e9._SX1080_FMjpg_.jpg",
-    "rated": "PG-13",
-    "popular": "no",
-    "category": "Superhero",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 15",
-            "url": "https://example.com/series/series-15/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 15",
-            "url": "https://example.com/series/series-15/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 15",
-            "url": "https://example.com/series/series-15/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 15",
-            "url": "https://example.com/series/series-15/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 15",
-            "url": "https://example.com/series/series-15/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 15",
-            "url": "https://example.com/series/series-15/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Ray",
-    "poster": "https://static.kinoafisha.info/k/series_shots/1920x1080/upload/series/frames/1/8/7/3781/800ebc69b7460461ac94a3d1bc16f215.jpg",
-    "rated": "R",
+    "title": "Us",
+    "poster": "https://kisskh.org/wp-content/uploads/2025/09/Us-2025.jpg",
+    "rated": "TV‑14",
     "popular": "yes",
-    "category": "Crime",
+    "category": "Romance / Drama",
     "languages": {
-      "English": {
+      "Korean": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Episode 1 of Series 16",
-            "url": "https://example.com/series/series-16/en-ep1"
+            "title": "Episode 1",
+            "url": "2025‑09‑20"
           },
           {
-            "episode": 2,
-            "title": "Episode 2 of Series 16",
-            "url": "https://example.com/series/series-16/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 16",
-            "url": "https://example.com/series/series-16/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 16",
-            "url": "https://example.com/series/series-16/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 16",
-            "url": "https://example.com/series/series-16/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 16",
-            "url": "https://example.com/series/series-16/es-ep2"
+            "episode": 10,
+            "title": "Final Episode",
+            "url": "2025‑10‑30"
           }
         ]
       }
     }
   },
   {
-    "title": "Mumbai Diaries 26/11",
-    "poster": "https://m.media-amazon.com/images/S/pv-target-images/6e0e17d912c590a60170ffec459b884beaab71cccb017e0562e997da2be38f35.jpg",
-    "rated": "PG-13",
-    "popular": "no",
-    "category": "Drama",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 17",
-            "url": "https://example.com/series/series-17/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 17",
-            "url": "https://example.com/series/series-17/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 17",
-            "url": "https://example.com/series/series-17/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 17",
-            "url": "https://example.com/series/series-17/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 17",
-            "url": "https://example.com/series/series-17/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 17",
-            "url": "https://example.com/series/series-17/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Kaala Paani",
-    "poster": "https://resizing.flixster.com/5zGmVkuCHiAYdw43B0U0SA5YW1c=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p25635930_b_h8_aa.jpg",
-    "rated": "R",
-    "popular": "no",
-    "category": "Thriller",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 18",
-            "url": "https://example.com/series/series-18/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 18",
-            "url": "https://example.com/series/series-18/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 18",
-            "url": "https://example.com/series/series-18/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 18",
-            "url": "https://example.com/series/series-18/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 18",
-            "url": "https://example.com/series/series-18/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 18",
-            "url": "https://example.com/series/series-18/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Tandav",
-    "poster": "https://static.toiimg.com/photo/msid-80247988.jpeg",
-    "rated": "PG-13",
+    "title": "The Murky Stream",
+    "poster": "https://kisskh.org/wp-content/uploads/2025/09/The-Murky-Stream-2025.jpg",
+    "rated": "TV‑14",
     "popular": "yes",
-    "category": "Political",
+    "category": "Historical / Drama",
     "languages": {
-      "English": {
+      "Korean": {
         "episodes": [
           {
             "episode": 1,
-            "title": "Episode 1 of Series 19",
-            "url": "https://example.com/series/series-19/en-ep1"
+            "title": "Episode 1",
+            "url": "2025‑09‑26"
           },
           {
-            "episode": 2,
-            "title": "Episode 2 of Series 19",
-            "url": "https://example.com/series/series-19/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 19",
-            "url": "https://example.com/series/series-19/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 19",
-            "url": "https://example.com/series/series-19/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 19",
-            "url": "https://example.com/series/series-19/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 19",
-            "url": "https://example.com/series/series-19/es-ep2"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "title": "Made in Heaven",
-    "poster": "https://www.youthkiawaaz.com/wp-content/uploads/2023/08/made-in-heaven-season-2-episode-1-recap-ending-explained-64d4f8d84c1fc9652581-900.webp",
-    "rated": "R",
-    "popular": "no",
-    "category": "Drama",
-    "languages": {
-      "English": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episode 1 of Series 20",
-            "url": "https://example.com/series/series-20/en-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episode 2 of Series 20",
-            "url": "https://example.com/series/series-20/en-ep2"
-          }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "एपिसोड 1 - Series 20",
-            "url": "https://example.com/series/series-20/hi-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "एपिसोड 2 - Series 20",
-            "url": "https://example.com/series/series-20/hi-ep2"
-          }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          {
-            "episode": 1,
-            "title": "Episodio 1 - Serie 20",
-            "url": "https://example.com/series/series-20/es-ep1"
-          },
-          {
-            "episode": 2,
-            "title": "Episodio 2 - Serie 20",
-            "url": "https://example.com/series/series-20/es-ep2"
+            "episode": 9,
+            "title": "Final Episode",
+            "url": "2025‑10‑17"
           }
         ]
       }
