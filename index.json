@@ -1,7 +1,7 @@
 [
   {
     "title": "Revenged Love",
-    "poster": "",  // poster URL not found
+    "poster": "", 
     "rated": "",
     "popular": "yes",
     "category": "BL / Romance",
@@ -11,12 +11,12 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025-06"   // approximate
+            "url": "2025-06" 
           },
           {
             "episode": 19,
             "title": "Final Episode",
-            "url": "2025-08"   // approximate
+            "url": "2025-08"  
           }
         ]
       }
@@ -34,9 +34,8 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025-08"   // approximate
+            "url": "2025-08"  
           }
-          // more episodes ongoing
         ]
       }
     }
@@ -53,9 +52,8 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025"  // already started in 2025
+            "url": "2025"
           }
-          // continuing
         ]
       }
     }
@@ -77,14 +75,13 @@
           {
             "episode": 6,
             "title": "Final Episode",
-            "url": "2025-June"  // approximate
+            "url": "2025-June"
           }
         ]
       }
     }
   }
 ]
-Juna
 [
   {
     "title": "No Mercy",
