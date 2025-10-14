@@ -1,7 +1,7 @@
 [
   {
     "title": "Revenged Love",
-    "poster": "", 
+    "poster": "",
     "rated": "",
     "popular": "yes",
     "category": "BL / Romance",
@@ -11,12 +11,12 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025-06" 
+            "url": "2025-06"
           },
           {
             "episode": 19,
             "title": "Final Episode",
-            "url": "2025-08"  
+            "url": "2025-08"
           }
         ]
       }
@@ -34,7 +34,7 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025-08"  
+            "url": "2025-08"
           }
         ]
       }
@@ -75,18 +75,16 @@
           {
             "episode": 6,
             "title": "Final Episode",
-            "url": "2025-June"
+            "url": "2025-06"
           }
         ]
       }
     }
-  }
-]
-[
+  },
   {
     "title": "No Mercy",
     "poster": "https://kisskh.org/wp-content/uploads/2025/09/No-Mercy-2025.jpg",
-    "rated": "TV‑14",
+    "rated": "TV-14",
     "popular": "yes",
     "category": "Crime / Thriller / Drama",
     "languages": {
@@ -95,12 +93,12 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025‑09‑24"
+            "url": "2025-09-24"
           },
           {
             "episode": 8,
             "title": "Final Episode",
-            "url": "2025‑09‑25"
+            "url": "2025-09-25"
           }
         ]
       }
@@ -109,7 +107,7 @@
   {
     "title": "Tempest",
     "poster": "https://kisskh.org/wp-content/uploads/2025/09/Tempest-2025.jpg",
-    "rated": "TV‑14",
+    "rated": "TV-14",
     "popular": "yes",
     "category": "Drama / Mystery / Thriller",
     "languages": {
@@ -118,12 +116,12 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025‑09‑10"
+            "url": "2025-09-10"
           },
           {
             "episode": 9,
             "title": "Final Episode",
-            "url": "2025‑10‑01"
+            "url": "2025-10-01"
           }
         ]
       }
@@ -132,7 +130,7 @@
   {
     "title": "The Witch",
     "poster": "https://kisskh.org/wp-content/uploads/2025/09/The-Witch-2025.jpg",
-    "rated": "TV‑14",
+    "rated": "TV-14",
     "popular": "yes",
     "category": "Fantasy / Romance / Drama",
     "languages": {
@@ -141,12 +139,12 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025‑09‑15"
+            "url": "2025-09-15"
           },
           {
             "episode": 8,
             "title": "Final Episode",
-            "url": "2025‑10‑06"
+            "url": "2025-10-06"
           }
         ]
       }
@@ -155,7 +153,7 @@
   {
     "title": "Us",
     "poster": "https://kisskh.org/wp-content/uploads/2025/09/Us-2025.jpg",
-    "rated": "TV‑14",
+    "rated": "TV-14",
     "popular": "yes",
     "category": "Romance / Drama",
     "languages": {
@@ -164,12 +162,12 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025‑09‑20"
+            "url": "2025-09-20"
           },
           {
             "episode": 10,
             "title": "Final Episode",
-            "url": "2025‑10‑30"
+            "url": "2025-10-30"
           }
         ]
       }
@@ -178,7 +176,7 @@
   {
     "title": "The Murky Stream",
     "poster": "https://kisskh.org/wp-content/uploads/2025/09/The-Murky-Stream-2025.jpg",
-    "rated": "TV‑14",
+    "rated": "TV-14",
     "popular": "yes",
     "category": "Historical / Drama",
     "languages": {
@@ -187,12 +185,12 @@
           {
             "episode": 1,
             "title": "Episode 1",
-            "url": "2025‑09‑26"
+            "url": "2025-09-26"
           },
           {
             "episode": 9,
             "title": "Final Episode",
-            "url": "2025‑10‑17"
+            "url": "2025-10-17"
           }
         ]
       }
