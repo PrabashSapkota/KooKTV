@@ -10,8 +10,8 @@
         "episodes": [
           { "episode": 1, "title": "Season 3 - Episode 1", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/da/a5/b3/daa5b367-1f29-4bf8-8656-e467882cf614/master.m3u8" },
           { "episode": 2, "title": "Season 3 - Episode 2", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/84/4b/21/844b21cc-a6ad-40b3-adb1-8bc595a9e434/master.m3u8" },
-          { "episode": 3, "title": "Season 3 - Episode 3", "url": "https://hlscdn.xyz/e/110316-3-03" },
-          { "episode": 4, "title": "Season 3 - Episode 4", "url": "https://hlscdn.xyz/e/110316-3-04" },
+          { "episode": 3, "title": "Season 3 - Episode 3", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0926/15/1758867274359359.mp4/manifest.m3u8" },
+          { "episode": 4, "title": "Season 3 - Episode 4", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0926/15/1758867274357124.mp4/manifest.m3u8" },
           { "episode": 5, "title": "Season 3 - Episode 5", "url": "https://hlscdn.xyz/e/110316-3-05" },
           { "episode": 6, "title": "Season 3 - Episode 6", "url": "https://hlscdn.xyz/e/110316-3-06" }
         ]
