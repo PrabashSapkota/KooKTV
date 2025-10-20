@@ -8,29 +8,29 @@
     "languages": {
       "English": {
         "episodes": [
-          { "episode": 1, "title": "Season 3 - Episode 1", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/da/a5/b3/daa5b367-1f29-4bf8-8656-e467882cf614/master.m3u8" },
-          { "episode": 2, "title": "Season 3 - Episode 2", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/84/4b/21/844b21cc-a6ad-40b3-adb1-8bc595a9e434/master.m3u8" },
-          { "episode": 3, "title": "Season 3 - Episode 3", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0926/15/1758867274359359.mp4/manifest.m3u8" },
-          { "episode": 4, "title": "Season 3 - Episode 4", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://vod-normal-global-cdn-z02.sooplive.co.kr/spkt/save/afreeca/station/2025/0926/15/1758867274357124.mp4/manifest.m3u8" },
-          { "episode": 5, "title": "Season 3 - Episode 5", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/4e/f1/76/4ef17694-1ba2-490a-8db0-b4b144f17e4d/master.m3u8" },
-          { "episode": 6, "title": "Season 3 - Episode 6", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/17/0b/5a/170b5a68-f8db-4a07-a989-4a5a05462a79/master.m3u8" },
-          { "episode": 7, "title": "Season 3 - Episode 6", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/ad/c7/7e/adc77eb4-2d5a-44dc-ac92-41a208ec9644/master.m3u8" },
-          { "episode": 8, "title": "Season 3 - Episode 6", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/a4/0e/7e/a40e7e84-a100-4321-9473-86b8d94bb7eb/master.m3u8" },
-          { "episode": 9, "title": "Season 3 - Episode 6", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/17/0b/5a/170b5a68-f8db-4a07-a989-4a5a05462a79/master.m3u8" },
-          { "episode": 10, "title": "Season 3 - Episode 6", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/17/0b/5a/170b5a68-f8db-4a07-a989-4a5a05462a79/master.m3u8" },
-          { "episode": 11, "title": "Season 3 - Episode 6", "url": "https://prabashsapkota.github.io/Bintvplayer/?mora=https://video1-ap-japan.cloudokyo.cloud/video/v13/17/0b/5a/170b5a68-f8db-4a07-a989-4a5a05462a79/master.m3u8" }
+          { "episode": 1, "title": "Season 3 - Episode 1", "url": "Placeholder_LoveInTheMoonlight_S3E1" },
+          { "episode": 2, "title": "Season 3 - Episode 2", "url": "Placeholder_LoveInTheMoonlight_S3E2" },
+          { "episode": 3, "title": "Season 3 - Episode 3", "url": "Placeholder_LoveInTheMoonlight_S3E3" },
+          { "episode": 4, "title": "Season 3 - Episode 4", "url": "Placeholder_LoveInTheMoonlight_S3E4" },
+          { "episode": 5, "title": "Season 3 - Episode 5", "url": "Placeholder_LoveInTheMoonlight_S3E5" },
+          { "episode": 6, "title": "Season 3 - Episode 6", "url": "Placeholder_LoveInTheMoonlight_S3E6" },
+          { "episode": 7, "title": "Season 3 - Episode 7", "url": "Placeholder_LoveInTheMoonlight_S3E7" },
+          { "episode": 8, "title": "Season 3 - Episode 8", "url": "Placeholder_LoveInTheMoonlight_S3E8" },
+          { "episode": 9, "title": "Season 3 - Episode 9", "url": "Placeholder_LoveInTheMoonlight_S3E9" },
+          { "episode": 10, "title": "Season 3 - Episode 10", "url": "Placeholder_LoveInTheMoonlight_S3E10" },
+          { "episode": 11, "title": "Season 3 - Episode 11", "url": "Placeholder_LoveInTheMoonlight_S3E11" }
         ]
       },
       "Hindi": {
         "episodes": [
-          { "episode": 1, "title": "एपिसोड 1 - Series 1", "url": "https://hlscdn.xyz/e/110316-3-01" },
-          { "episode": 2, "title": "एपिसोड 2 - Series 1", "url": "https://example.com/series/series-1/hi-ep2" }
+          { "episode": 1, "title": "एपिसोड 1 - Series 1", "url": "Placeholder_LoveInTheMoonlight_HI_S3E1" },
+          { "episode": 2, "title": "एपिसोड 2 - Series 1", "url": "Placeholder_LoveInTheMoonlight_HI_S3E2" }
         ]
       },
       "Spanish": {
         "episodes": [
-          { "episode": 1, "title": "Episodio 1 - Serie 1", "url": "https://example.com/series/series-1/es-ep1" },
-          { "episode": 2, "title": "Episodio 2 - Serie 1", "url": "https://example.com/series/series-1/es-ep2" }
+          { "episode": 1, "title": "Episodio 1 - Serie 1", "url": "Placeholder_LoveInTheMoonlight_ES_S3E1" },
+          { "episode": 2, "title": "Episodio 2 - Serie 1", "url": "Placeholder_LoveInTheMoonlight_ES_S3E2" }
         ]
       }
     }
@@ -44,40 +44,1930 @@
     "languages": {
       "Hindi": {
         "episodes": [
-          { "episode": 1, "title": "एपिसोड-1", "url": "https://full4.upns.online/#pumxkp" },
-          { "episode": 2, "title": "एपिसोड-2", "url": "https://full4.upns.online/#twrdwb" },
-          { "episode": 3, "title": "एपिसोड-3", "url": "https://full4.upns.online/#mewaso" },
-          { "episode": 4, "title": "एपिसोड-4", "url": "https://full4.upns.online/#ipf1ua" },
-          { "episode": 5, "title": "एपिसोड-5", "url": "https://full4.upns.online/#6s1zuo" },
-          { "episode": 6, "title": "एपिसोड-6", "url": "https://full4.upns.online/#6s1zug" },
-          { "episode": 7, "title": "एपिसोड-7", "url": "https://full4.upns.online/#3adob9" }
+          { "episode": 1, "title": "एपिसोड-1", "url": "Placeholder_Netflix_Ba***rdsOfBollywood_S1E1" },
+          { "episode": 2, "title": "एपिसोड-2", "url": "Placeholder_Netflix_Ba***rdsOfBollywood_S1E2" },
+          { "episode": 3, "title": "एपिसोड-3", "url": "Placeholder_Netflix_Ba***rdsOfBollywood_S1E3" },
+          { "episode": 4, "title": "एपिसोड-4", "url": "Placeholder_Netflix_Ba***rdsOfBollywood_S1E4" },
+          { "episode": 5, "title": "एपिसोड-5", "url": "Placeholder_Netflix_Ba***rdsOfBollywood_S1E5" },
+          { "episode": 6, "title": "एपिसोड-6", "url": "Placeholder_Netflix_Ba***rdsOfBollywood_S1E6" },
+          { "episode": 7, "title": "एपिसोड-7", "url": "Placeholder_Netflix_Ba***rdsOfBollywood_S1E7" }
         ]
       }
     }
   },
   {
     "title": "When Life Gives You Tangerines",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrdGDD5bUW9rbLEaHpymOrGsVHLkHKydm4CQ&s",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/When_Life_Gives_You_Tangerines_poster.jpg/1200px-When_Life_Gives_You_Tangerines_poster.jpg",
     "rated": "PG-13",
     "popular": "no",
     "category": "Drama",
     "languages": {
       "English": {
         "episodes": [
-          { "episode": 1, "title": "Episode 1 of Series 3", "url": "https://example.com/series/series-3/en-ep1" },
-          { "episode": 2, "title": "Episode 2 of Series 3", "url": "https://example.com/series/series-3/en-ep2" }
+          { "episode": 1, "title": "Episode 1 of Series 3", "url": "Placeholder_WhenLifeGivesYouTangerines_S1E1" },
+          { "episode": 2, "title": "Episode 2 of Series 3", "url": "Placeholder_WhenLifeGivesYouTangerines_S1E2" }
         ]
       },
       "Hindi": {
         "episodes": [
-          { "episode": 1, "title": "एपिसोड 1 - Series 3", "url": "https://example.com/series/series-3/hi-ep1" },
-          { "episode": 2, "title": "एपिसोड 2 - Series 3", "url": "https://example.com/series/series-3/hi-ep2" }
+          { "episode": 1, "title": "एपिसोड 1 - Series 3", "url": "Placeholder_WhenLifeGivesYouTangerines_HI_S1E1" },
+          { "episode": 2, "title": "एपिसोड 2 - Series 3", "url": "Placeholder_WhenLifeGivesYouTangerines_HI_S1E2" }
         ]
       },
       "Spanish": {
         "episodes": [
-          { "episode": 1, "title": "Episodio 1 - Serie 3", "url": "https://example.com/series/series-3/es-ep1" },
-          { "episode": 2, "title": "Episodio 2 - Serie 3", "url": "https://example.com/series/series-3/es-ep2" }
+          { "episode": 1, "title": "Episodio 1 - Serie 3", "url": "Placeholder_WhenLifeGivesYouTangerines_ES_S1E1" },
+          { "episode": 2, "title": "Episodio 2 - Serie 3", "url": "Placeholder_WhenLifeGivesYouTangerines_ES_S1E2" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Severance Season 2",
+    "poster": "https://img.buzzfeed.com/buzzfeed-static/static/2024-09/16/16/asset/6e51e44cc03e/sub-buzz-4348-1726505085-3.jpg?resize=990:*",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Sci-Fi Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Severed Employee", "url": "Placeholder_AppleTV_Severance_S2E1" },
+          { "episode": 10, "title": "Cold Harbor", "url": "Placeholder_AppleTV_Severance_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Diplomat Season 3",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Political Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Emperor Dead", "url": "Placeholder_Netflix_Diplomat_S3E1" },
+          { "episode": 8, "title": "Schrödinger's Wife", "url": "Placeholder_Netflix_Diplomat_S3E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Witcher Season 4",
+    "poster": "https://ntvb.tmsimg.com/assets/p20455823_b_h8_aa.jpg?w=1280&h=720",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Fantasy Adventure",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Baptism of Fire (Part 1)", "url": "Placeholder_Netflix_Witcher_S4E1" },
+          { "episode": 8, "title": "The Final Chapter", "url": "Placeholder_Netflix_Witcher_S4E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mayor of Kingstown Season 4",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/423/1057814.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Crime Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The McLusky War Begins", "url": "Placeholder_Paramount_Kingstown_S4E1" },
+          { "episode": 6, "title": "Endgame", "url": "Placeholder_Paramount_Kingstown_S4E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Adolescence",
+    "poster": "https://i.guim.co.uk/img/media/e142273e9702208c903a4c01d6706e22c922572a/0_0_5760_3456/master/5760.jpg?width=1200&quality=85&auto=format&fit=max&s=811f38e747c3e1e2d93e5066c0d6b38c",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Crime Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Episode 1 (One-Take)", "url": "Placeholder_Netflix_Adolescence_S1E1" },
+          { "episode": 4, "title": "Episode 4 (Finale)", "url": "Placeholder_Netflix_Adolescence_S1E4" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Stranger Things Season 5 Volume 1",
+    "poster": "https://i.ebayimg.com/images/g/r1EAAOSwX55kY25g/s-l1600.jpg",
+    "rated": "TV-14",
+    "popular": "yes",
+    "category": "Sci-Fi Horror",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The First Volume", "url": "Placeholder_Netflix_StrangerThings_S5E1" },
+          { "episode": 4, "title": "The Gate Closes", "url": "Placeholder_Netflix_StrangerThings_S5E4" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The White Lotus Season 3",
+    "poster": "https://variety.com/wp-content/uploads/2024/02/The-White-Lotus-Season-3-Thailand-Poster.jpg?w=1200",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Comedy Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Welcome to Thailand", "url": "Placeholder_HBO_WhiteLotus_S3E1" },
+          { "episode": 7, "title": "The Murder", "url": "Placeholder_HBO_WhiteLotus_S3E7" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Andor Season 2",
+    "poster": "https://i.ytimg.com/vi/V5g_wD3v-zY/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "yes",
+    "category": "Sci-Fi Action",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The First Arch", "url": "Placeholder_DisneyPlus_Andor_S2E1" },
+          { "episode": 12, "title": "Rogue One", "url": "Placeholder_DisneyPlus_Andor_S2E12" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Daredevil: Born Again",
+    "poster": "https://i.redd.it/daredevil-born-again-poster-fan-made-i-hope-it-looks-something-v0-429u7v10g09c1.jpg?width=1000&format=pjpg&auto=webp&s=6f235b6c3d52c1e8d641d40f40d1e57c8d9d2824",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Superhero Crime",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Guardian of Hell's Kitchen", "url": "Placeholder_DisneyPlus_Daredevil_S1E1" },
+          { "episode": 9, "title": "Born Again", "url": "Placeholder_DisneyPlus_Daredevil_S1E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Last of Us Season 2",
+    "poster": "https://www.looper.com/img/gallery/everything-we-know-about-the-last-of-us-season-2/l-intro-1681223945.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Post-Apocalyptic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Long Road", "url": "Placeholder_HBO_LastOfUs_S2E1" },
+          { "episode": 9, "title": "Seattle (Part 2)", "url": "Placeholder_HBO_LastOfUs_S2E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "It: Welcome to Derry",
+    "poster": "https://i.redd.it/it-welcome-to-derry-poster-v0-r02j1k1h90xb1.jpg?width=1280&format=pjpg&auto=webp&s=f36612d19b7a4b8f58b5a03e670d8a5f8e5f221e",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Horror",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Clown", "url": "Placeholder_HBO_ITDerry_S1E1" },
+          { "episode": 6, "title": "The Curse", "url": "Placeholder_HBO_ITDerry_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Alien: Earth",
+    "poster": "https://i.redd.it/alien-series-by-noah-hawley-is-called-alien-earth-to-be-set-on-v0-b9952y9w10kb1.jpg?width=1080&crop=smart&auto=webp&s=d52e5b7e8d0224e754a61c33f114c0a5e52c8928",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Sci-Fi Horror",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Arrival", "url": "Placeholder_FX_AlienEarth_S1E1" },
+          { "episode": 10, "title": "The Hunt", "url": "Placeholder_FX_AlienEarth_S1E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Panchayat Season 4",
+    "poster": "https://i.ytimg.com/vi/bYcW3Xv-f3o/maxresdefault.jpg",
+    "rated": "TV-PG",
+    "popular": "yes",
+    "category": "Comedy Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "विधायक जी", "url": "Placeholder_PrimeVideo_Panchayat_S4E1" },
+          { "episode": 8, "title": "नया बीडीओ", "url": "Placeholder_PrimeVideo_Panchayat_S4E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Mirzapur Season 4",
+    "poster": "https://i.ytimg.com/vi/b-D7j-v8kY4/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Crime Thriller",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "युद्ध", "url": "Placeholder_PrimeVideo_Mirzapur_S4E1" },
+          { "episode": 10, "title": "अंतिम अध्याय", "url": "Placeholder_PrimeVideo_Mirzapur_S4E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Delhi Crime Season 3",
+    "poster": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202302/delhi-crime-season-3_new-026217578-16x9.jpg?size=1200:675",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Crime Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "New Case Begins", "url": "Placeholder_Netflix_DelhiCrime_S3E1" },
+          { "episode": 7, "title": "The Verdict", "url": "Placeholder_Netflix_DelhiCrime_S3E7" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Family Man Season 3",
+    "poster": "https://i.ytimg.com/vi/q1R2f5t45cI/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Spy Thriller",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "Operation Tiger", "url": "Placeholder_PrimeVideo_TheFamilyMan_S3E1" },
+          { "episode": 9, "title": "Mission Complete", "url": "Placeholder_PrimeVideo_TheFamilyMan_S3E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "A Knight of the Seven Kingdoms",
+    "poster": "https://images.immediate.co.uk/production/volatile/sites/3/2024/05/A-Knight-of-the-Seven-Kingdoms-e395565.jpg?quality=90&fit=contain&width=1140",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Fantasy Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Hedge Knight", "url": "Placeholder_HBO_KnightOfThe7K_S1E1" },
+          { "episode": 6, "title": "Tourney at Ashford", "url": "Placeholder_HBO_KnightOfThe7K_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Wednesday Season 2",
+    "poster": "https://i.ytimg.com/vi/t4o-s7B16tE/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "yes",
+    "category": "Supernatural Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Nevermore Returns", "url": "Placeholder_Netflix_Wednesday_S2E1" },
+          { "episode": 8, "title": "The New Master", "url": "Placeholder_Netflix_Wednesday_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Peacemaker Season 2",
+    "poster": "https://i.redd.it/peacemaker-season-2-fanmade-poster-v0-x817n7j9193c1.jpg?width=1024&auto=webp&s=6b7c53e4142f1f6c4d7e252a1b9c9f056d649d21",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Superhero Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Suicide Squad", "url": "Placeholder_Max_Peacemaker_S2E1" },
+          { "episode": 6, "title": "Project Butterfly", "url": "Placeholder_Max_Peacemaker_S2E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Maxton Hall Season 2",
+    "poster": "https://images.immediate.co.uk/production/volatile/sites/3/2024/05/maxhall2_11-1773d57.jpg?quality=90&fit=contain&width=1140",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Teen Drama, Romance",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Secret", "url": "Placeholder_PrimeVideo_MaxtonHall_S2E1" },
+          { "episode": 6, "title": "The Broken Promise", "url": "Placeholder_PrimeVideo_MaxtonHall_S2E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Maharani Season 4",
+    "poster": "https://i.ytimg.com/vi/M4G2J73tYlI/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Political Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "सत्ता का खेल", "url": "Placeholder_SonyLIV_Maharani_S4E1" },
+          { "episode": 8, "title": "मुख्यमंत्री", "url": "Placeholder_SonyLIV_Maharani_S4E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Splinter Cell: Deathwatch",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Action Animation",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Sam Fisher Returns", "url": "Placeholder_Netflix_SplinterCell_S1E1" },
+          { "episode": 8, "title": "The Third Echelon", "url": "Placeholder_Netflix_SplinterCell_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "All's Fair",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/477/1192809.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Drama, Satire",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Pitch", "url": "Placeholder_Hulu_AllsFair_S1E1" },
+          { "episode": 9, "title": "The Finale", "url": "Placeholder_Hulu_AllsFair_S1E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Black Rabbit",
+    "poster": "https://images.immediate.co.uk/production/volatile/sites/3/2024/09/Black-Rabbit-967b079.jpg?quality=90&fit=contain&width=1140",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Crime Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Brother", "url": "Placeholder_Netflix_BlackRabbit_S1E1" },
+          { "episode": 8, "title": "The Debt", "url": "Placeholder_Netflix_BlackRabbit_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Last Frontier (2025)",
+    "poster": "https://i.ytimg.com/vi/qV1tT_jQ6pQ/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Thriller, Action",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Alaska Bound", "url": "Placeholder_AppleTV_LastFrontier_S1E1" },
+          { "episode": 10, "title": "The Escape", "url": "Placeholder_AppleTV_LastFrontier_S1E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Harlan Coben's Lazarus",
+    "poster": "https://i.ytimg.com/vi/F-3h8hJ6h4A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Mystery Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Return", "url": "Placeholder_PrimeVideo_Lazarus_S1E1" },
+          { "episode": 6, "title": "The Truth", "url": "Placeholder_PrimeVideo_Lazarus_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Studio",
+    "poster": "https://i.redd.it/seth-rogens-the-studio-is-set-to-premiere-in-2025-on-apple-v0-45731h85c8wb1.jpg?width=1000&format=pjpg&auto=webp&s=5548f0761e0647e3a9c788643c7b3c2c1a0c7104",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Cringe Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "New Boss", "url": "Placeholder_AppleTV_TheStudio_S1E1" },
+          { "episode": 8, "title": "The Deal", "url": "Placeholder_AppleTV_TheStudio_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Pitt",
+    "poster": "https://i.ytimg.com/vi/eW6M2tF1s9A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Medical Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The First Shift", "url": "Placeholder_Max_ThePitt_S1E1" },
+          { "episode": 10, "title": "Code Red", "url": "Placeholder_Max_ThePitt_S1E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Murderbot",
+    "poster": "https://i.ytimg.com/vi/7_0V-4Yk7f0/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Sci-Fi Action",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "I Did Not Kill These Humans", "url": "Placeholder_AppleTV_Murderbot_S1E1" },
+          { "episode": 10, "title": "The Self-Actualizing Unit", "url": "Placeholder_AppleTV_Murderbot_S1E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Dying for Sex",
+    "poster": "https://i.ytimg.com/vi/o50L5c9x9gY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Limited Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Diagnosis", "url": "Placeholder_Hulu_DyingForSex_S1E1" },
+          { "episode": 4, "title": "The Final Scene", "url": "Placeholder_Hulu_DyingForSex_S1E4" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Daredevil: Born Again (Season 2)",
+    "poster": "https://i.redd.it/daredevil-born-again-poster-fan-made-i-hope-it-looks-something-v0-429u7v10g09c1.jpg?width=1000&format=pjpg&auto=webp&s=6f235b6c3d52c1e8d641d40f40d1e57c8d9d2824",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Superhero Crime",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Kingpin's Return", "url": "Placeholder_DisneyPlus_Daredevil_S2E1" },
+          { "episode": 8, "title": "No More Heroes", "url": "Placeholder_DisneyPlus_Daredevil_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Your Friends and Neighbors",
+    "poster": "https://i.ytimg.com/vi/vD3e7Y9qUvY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The New Neighbor", "url": "Placeholder_AppleTV_FriendsNeighbors_S1E1" },
+          { "episode": 8, "title": "Welcome Home", "url": "Placeholder_AppleTV_FriendsNeighbors_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Nobody Wants This Season 2",
+    "poster": "https://i.ytimg.com/vi/bX9b2S6L52k/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Romantic Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Wedding Planner", "url": "Placeholder_Netflix_NobodyWantsThis_S2E1" },
+          { "episode": 8, "title": "The Vows", "url": "Placeholder_Netflix_NobodyWantsThis_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Doom Patrol Season 5",
+    "poster": "https://i.ytimg.com/vi/wO6L_rJ5cQY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Superhero Adventure",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Finale Begins", "url": "Placeholder_Max_DoomPatrol_S5E1" },
+          { "episode": 6, "title": "The Last Mission", "url": "Placeholder_Max_DoomPatrol_S5E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Maxton Hall Season 2",
+    "poster": "https://images.immediate.co.uk/production/volatile/sites/3/2024/05/maxhall2_11-1773d57.jpg?quality=90&fit=contain&width=1140",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Teen Drama, Romance",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Secret", "url": "Placeholder_PrimeVideo_MaxtonHall_S2E1" },
+          { "episode": 6, "title": "The Broken Promise", "url": "Placeholder_PrimeVideo_MaxtonHall_S2E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "All Her Fault",
+    "poster": "https://static.tvmaze.com/uploads/images/original_untouched/470/1176046.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Invitation", "url": "Placeholder_Peacock_AllHerFault_S1E1" },
+          { "episode": 6, "title": "The Disappearance", "url": "Placeholder_Peacock_AllHerFault_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Last of Us Season 2",
+    "poster": "https://www.looper.com/img/gallery/everything-we-know-about-the-last-of-us-season-2/l-intro-1681223945.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Post-Apocalyptic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Long Road", "url": "Placeholder_HBO_LastOfUs_S2E1" },
+          { "episode": 9, "title": "Seattle (Part 2)", "url": "Placeholder_HBO_LastOfUs_S2E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Loot Season 3",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjY5M2E4MzUtNDFkOS00YmIwLTgxY2ItMWRhMWQ0OTU2OWI0XkEyXkFqcGdeQXVyMTE0MzI0Nzk2._V1_FMjpg_UX1000_.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Billionaire Returns", "url": "Placeholder_AppleTV_Loot_S3E1" },
+          { "episode": 10, "title": "The Charity Gala", "url": "Placeholder_AppleTV_Loot_S3E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Foundation Season 3",
+    "poster": "https://i.redd.it/foundation-season-3-release-date-set-for-september-2025-at-v0-1411y1t17cqc1.jpg?width=1000&format=pjpg&auto=webp&s=6f235b6c3d52c1e8d641d40f40d1e57c8d9d2824",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Sci-Fi Epic",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Second Crisis", "url": "Placeholder_AppleTV_Foundation_S3E1" },
+          { "episode": 10, "title": "The Mule's Gambit", "url": "Placeholder_AppleTV_Foundation_S3E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Gen V Season 2",
+    "poster": "https://i.ytimg.com/vi/bYcW3Xv-f3o/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Superhero Action",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "God U Re-opens", "url": "Placeholder_PrimeVideo_GenV_S2E1" },
+          { "episode": 8, "title": "The Woods", "url": "Placeholder_PrimeVideo_GenV_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Yellowjackets Season 3",
+    "poster": "https://i.ytimg.com/vi/fX3h9b-4A0k/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Survival Horror",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Winter is Over", "url": "Placeholder_Showtime_Yellowjackets_S3E1" },
+          { "episode": 9, "title": "The Ritual", "url": "Placeholder_Showtime_Yellowjackets_S3E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Wheel of Time Season 3",
+    "poster": "https://images.immediate.co.uk/production/volatile/sites/3/2023/07/The-Wheel-of-Time-Season-3-a750c05.jpg?quality=90&fit=contain&width=1140",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Fantasy Adventure",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "New Alliances", "url": "Placeholder_PrimeVideo_WheelOfTime_S3E1" },
+          { "episode": 8, "title": "The Dragon", "url": "Placeholder_PrimeVideo_WheelOfTime_S3E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Nine Bodies in a Mexican Morgue",
+    "poster": "https://i.ytimg.com/vi/b2q5hF8v7xM/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Mystery Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Tourists", "url": "Placeholder_MGMPlus_NineBodies_S1E1" },
+          { "episode": 6, "title": "The Killer", "url": "Placeholder_MGMPlus_NineBodies_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Star Wars: Visions Season 3",
+    "poster": "https://i.ytimg.com/vi/v5Qh6-u3v-8/maxresdefault.jpg",
+    "rated": "TV-PG",
+    "popular": "no",
+    "category": "Animated Anthology",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Short 1: Title TBD", "url": "Placeholder_DisneyPlus_Visions_S3E1" },
+          { "episode": 9, "title": "Short 9: Title TBD", "url": "Placeholder_DisneyPlus_Visions_S3E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Ironheart",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Superhero Action",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Riri's Suit", "url": "Placeholder_DisneyPlus_Ironheart_S1E1" },
+          { "episode": 6, "title": "The Genius", "url": "Placeholder_DisneyPlus_Ironheart_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Penguin",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Crime Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Gotham's New King", "url": "Placeholder_Max_Penguin_S1E1" },
+          { "episode": 8, "title": "The Reign", "url": "Placeholder_Max_Penguin_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Euphoria Season 3",
+    "poster": "https://i.ytimg.com/vi/vD3e7Y9qUvY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Teen Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Three Years Later", "url": "Placeholder_HBO_Euphoria_S3E1" },
+          { "episode": 8, "title": "The Graduation", "url": "Placeholder_HBO_Euphoria_S3E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Scam 2010 (The Curious Case of Subrata Roy)",
+    "poster": "https://i.ytimg.com/vi/q1R2f5t45cI/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Biographical Thriller",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "सपने", "url": "Placeholder_SonyLIV_Scam2010_S1E1" },
+          { "episode": 7, "title": "न्याय", "url": "Placeholder_SonyLIV_Scam2010_S1E7" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Murdaugh: Death in the Family",
+    "poster": "https://i.ytimg.com/vi/j5N3H7G4QkU/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "True Crime Docuseries",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Dynasty", "url": "Placeholder_Hulu_Murdaugh_S1E1" },
+          { "episode": 4, "title": "The Trial", "url": "Placeholder_Hulu_Murdaugh_S1E4" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Boots (2025)",
+    "poster": "https://i.ytimg.com/vi/a6yX0Tz0-wM/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "War, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Boot Camp", "url": "Placeholder_Netflix_Boots_S1E1" },
+          { "episode": 6, "title": "The Deployment", "url": "Placeholder_Netflix_Boots_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Trial: Pyaar, Kaanoon, Dhokha S2",
+    "poster": "https://i.ytimg.com/vi/bYcW3Xv-f3o/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Mystery, Drama, Crime",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "नयनिका का बदला", "url": "Placeholder_JioHotstar_TheTrial_S2E1" },
+          { "episode": 8, "title": "न्याय की जीत", "url": "Placeholder_JioHotstar_TheTrial_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Jamnapaar Season 2",
+    "poster": "https://i.ytimg.com/vi/qV1tT_jQ6pQ/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "नया संघर्ष", "url": "Placeholder_JioCinema_Jamnapaar_S2E1" },
+          { "episode": 10, "title": "घर वापसी", "url": "Placeholder_JioCinema_Jamnapaar_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Search: The Naina Murder Case",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "UA-16+",
+    "popular": "no",
+    "category": "Thriller, Mystery, Crime",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "पहला सुराग", "url": "Placeholder_JioHotstar_SearchNaina_S1E1" },
+          { "episode": 6, "title": "सच्चाई", "url": "Placeholder_JioHotstar_SearchNaina_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Kurukshetra (2025)",
+    "poster": "https://i.ytimg.com/vi/V5g_wD3v-zY/maxresdefault.jpg",
+    "rated": "UA-16+",
+    "popular": "no",
+    "category": "War, Drama, Adventure",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "धर्मक्षेत्रे", "url": "Placeholder_Netflix_Kurukshetra_S1E1" },
+          { "episode": 18, "title": "विजय", "url": "Placeholder_Netflix_Kurukshetra_S1E18" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "House of Guinness",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Biography, Drama, History",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Arthur's Legacy", "url": "Placeholder_HouseOfGuinness_S1E1" },
+          { "episode": 8, "title": "The Stout Empire", "url": "Placeholder_HouseOfGuinness_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Hotel Costiera",
+    "poster": "https://i.ytimg.com/vi/F-3h8hJ6h4A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action, Comedy, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Check-in", "url": "Placeholder_HotelCostiera_S1E1" },
+          { "episode": 6, "title": "Check-out", "url": "Placeholder_HotelCostiera_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Tulsa King Season 3",
+    "poster": "https://i.ytimg.com/vi/eW6M2tF1s9A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action, Crime, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Oklahoma Mob", "url": "Placeholder_Paramount_TulsaKing_S3E1" },
+          { "episode": 10, "title": "New Order", "url": "Placeholder_Paramount_TulsaKing_S3E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Do You Wanna Partner",
+    "poster": "https://i.ytimg.com/vi/o50L5c9x9gY/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Comedy, Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "दारू का कारोबार", "url": "Placeholder_PrimeVideo_Partner_S1E1" },
+          { "episode": 8, "title": "सफलता", "url": "Placeholder_PrimeVideo_Partner_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Outlaws (US) Season 4",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Comedy, Crime, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Community Service", "url": "Placeholder_PrimeVideo_Outlaws_S4E1" },
+          { "episode": 6, "title": "The Final Job", "url": "Placeholder_PrimeVideo_Outlaws_S4E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Sweet Magnolias Season 5",
+    "poster": "https://i.ytimg.com/vi/bX9b2S6L52k/maxresdefault.jpg",
+    "rated": "TV-PG",
+    "popular": "no",
+    "category": "Romantic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Margarita Night", "url": "Placeholder_Netflix_SweetMagnolias_S5E1" },
+          { "episode": 10, "title": "The Proposal", "url": "Placeholder_Netflix_SweetMagnolias_S5E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Night Agent Season 2",
+    "poster": "https://i.ytimg.com/vi/t4o-s7B16tE/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "President's Agent", "url": "Placeholder_Netflix_NightAgent_S2E1" },
+          { "episode": 10, "title": "The White House", "url": "Placeholder_Netflix_NightAgent_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "You Season 5",
+    "poster": "https://i.ytimg.com/vi/V5g_wD3v-zY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Psychological Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Hello, New York", "url": "Placeholder_Netflix_You_S5E1" },
+          { "episode": 10, "title": "The Final Victim", "url": "Placeholder_Netflix_You_S5E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Hazbin Hotel Season 2",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Animated Musical Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Hell's Redemption", "url": "Placeholder_PrimeVideo_HazbinHotel_S2E1" },
+          { "episode": 8, "title": "The New Order", "url": "Placeholder_PrimeVideo_HazbinHotel_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The The Last of Us Season 2",
+    "poster": "https://www.looper.com/img/gallery/everything-we-know-about-the-last-of-us-season-2/l-intro-1681223945.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Post-Apocalyptic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Long Road", "url": "Placeholder_HBO_LastOfUs_S2E1" },
+          { "episode": 9, "title": "Seattle (Part 2)", "url": "Placeholder_HBO_LastOfUs_S2E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Euphoria Season 3",
+    "poster": "https://i.ytimg.com/vi/vD3e7Y9qUvY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Teen Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Three Years Later", "url": "Placeholder_HBO_Euphoria_S3E1" },
+          { "episode": 8, "title": "The Graduation", "url": "Placeholder_HBO_Euphoria_S3E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Scam 2010 (The Curious Case of Subrata Roy)",
+    "poster": "https://i.ytimg.com/vi/q1R2f5t45cI/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Biographical Thriller",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "सपने", "url": "Placeholder_SonyLIV_Scam2010_S1E1" },
+          { "episode": 7, "title": "न्याय", "url": "Placeholder_SonyLIV_Scam2010_S1E7" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Murdaugh: Death in the Family",
+    "poster": "https://i.ytimg.com/vi/j5N3H7G4QkU/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "True Crime Docuseries",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Dynasty", "url": "Placeholder_Hulu_Murdaugh_S1E1" },
+          { "episode": 4, "title": "The Trial", "url": "Placeholder_Hulu_Murdaugh_S1E4" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Boots (2025)",
+    "poster": "https://i.ytimg.com/vi/a6yX0Tz0-wM/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "War, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Boot Camp", "url": "Placeholder_Netflix_Boots_S1E1" },
+          { "episode": 6, "title": "The Deployment", "url": "Placeholder_Netflix_Boots_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Trial: Pyaar, Kaanoon, Dhokha S2",
+    "poster": "https://i.ytimg.com/vi/bYcW3Xv-f3o/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Mystery, Drama, Crime",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "नयनिका का बदला", "url": "Placeholder_JioHotstar_TheTrial_S2E1" },
+          { "episode": 8, "title": "न्याय की जीत", "url": "Placeholder_JioHotstar_TheTrial_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Jamnapaar Season 2",
+    "poster": "https://i.ytimg.com/vi/qV1tT_jQ6pQ/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "नया संघर्ष", "url": "Placeholder_JioCinema_Jamnapaar_S2E1" },
+          { "episode": 10, "title": "घर वापसी", "url": "Placeholder_JioCinema_Jamnapaar_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Search: The Naina Murder Case",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "UA-16+",
+    "popular": "no",
+    "category": "Thriller, Mystery, Crime",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "पहला सुराग", "url": "Placeholder_JioHotstar_SearchNaina_S1E1" },
+          { "episode": 6, "title": "सच्चाई", "url": "Placeholder_JioHotstar_SearchNaina_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Kurukshetra (2025)",
+    "poster": "https://i.ytimg.com/vi/V5g_wD3v-zY/maxresdefault.jpg",
+    "rated": "UA-16+",
+    "popular": "no",
+    "category": "War, Drama, Adventure",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "धर्मक्षेत्रे", "url": "Placeholder_Netflix_Kurukshetra_S1E1" },
+          { "episode": 18, "title": "विजय", "url": "Placeholder_Netflix_Kurukshetra_S1E18" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "House of Guinness",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Biography, Drama, History",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Arthur's Legacy", "url": "Placeholder_HouseOfGuinness_S1E1" },
+          { "episode": 8, "title": "The Stout Empire", "url": "Placeholder_HouseOfGuinness_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Hotel Costiera",
+    "poster": "https://i.ytimg.com/vi/F-3h8hJ6h4A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action, Comedy, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Check-in", "url": "Placeholder_HotelCostiera_S1E1" },
+          { "episode": 6, "title": "Check-out", "url": "Placeholder_HotelCostiera_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Tulsa King Season 3",
+    "poster": "https://i.ytimg.com/vi/eW6M2tF1s9A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action, Crime, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Oklahoma Mob", "url": "Placeholder_Paramount_TulsaKing_S3E1" },
+          { "episode": 10, "title": "New Order", "url": "Placeholder_Paramount_TulsaKing_S3E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Do You Wanna Partner",
+    "poster": "https://i.ytimg.com/vi/o50L5c9x9gY/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Comedy, Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "दारू का कारोबार", "url": "Placeholder_PrimeVideo_Partner_S1E1" },
+          { "episode": 8, "title": "सफलता", "url": "Placeholder_PrimeVideo_Partner_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Outlaws (US) Season 4",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Comedy, Crime, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Community Service", "url": "Placeholder_PrimeVideo_Outlaws_S4E1" },
+          { "episode": 6, "title": "The Final Job", "url": "Placeholder_PrimeVideo_Outlaws_S4E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Sweet Magnolias Season 5",
+    "poster": "https://i.ytimg.com/vi/bX9b2S6L52k/maxresdefault.jpg",
+    "rated": "TV-PG",
+    "popular": "no",
+    "category": "Romantic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Margarita Night", "url": "Placeholder_Netflix_SweetMagnolias_S5E1" },
+          { "episode": 10, "title": "The Proposal", "url": "Placeholder_Netflix_SweetMagnolias_S5E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Night Agent Season 2",
+    "poster": "https://i.ytimg.com/vi/t4o-s7B16tE/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "President's Agent", "url": "Placeholder_Netflix_NightAgent_S2E1" },
+          { "episode": 10, "title": "The White House", "url": "Placeholder_Netflix_NightAgent_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "You Season 5",
+    "poster": "https://i.ytimg.com/vi/V5g_wD3v-zY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Psychological Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Hello, New York", "url": "Placeholder_Netflix_You_S5E1" },
+          { "episode": 10, "title": "The Final Victim", "url": "Placeholder_Netflix_You_S5E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Hazbin Hotel Season 2",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Animated Musical Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Hell's Redemption", "url": "Placeholder_PrimeVideo_HazbinHotel_S2E1" },
+          { "episode": 8, "title": "The New Order", "url": "Placeholder_PrimeVideo_HazbinHotel_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Only Murders in the Building S5",
+    "poster": "https://i.ytimg.com/vi/q1R2f5t45cI/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Mystery Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The New Neighbor", "url": "Placeholder_Hulu_OnlyMurders_S5E1" },
+          { "episode": 10, "title": "The Finale", "url": "Placeholder_Hulu_OnlyMurders_S5E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Last of Us Season 2",
+    "poster": "https://www.looper.com/img/gallery/everything-we-know-about-the-last-of-us-season-2/l-intro-1681223945.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Post-Apocalyptic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Long Road", "url": "Placeholder_HBO_LastOfUs_S2E1" },
+          { "episode": 9, "title": "Seattle (Part 2)", "url": "Placeholder_HBO_LastOfUs_S2E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Squid Game: The Challenge S2",
+    "poster": "https://i.ytimg.com/vi/a6yX0Tz0-wM/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Reality Competition",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Red Light, Green Light", "url": "Placeholder_Netflix_SquidGameChallenge_S2E1" },
+          { "episode": 10, "title": "The Final Game", "url": "Placeholder_Netflix_SquidGameChallenge_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Eternaut",
+    "poster": "https://i.ytimg.com/vi/j5N3H7G4QkU/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Sci-Fi Disaster",
+    "languages": {
+      "Spanish": {
+        "episodes": [
+          { "episode": 1, "title": "La Nevada", "url": "Placeholder_Netflix_Eternaut_S1E1" },
+          { "episode": 6, "title": "El Regreso", "url": "Placeholder_Netflix_Eternaut_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Daredevil: Born Again",
+    "poster": "https://i.redd.it/daredevil-born-again-poster-fan-made-i-hope-it-looks-something-v0-429u7v10g09c1.jpg?width=1000&format=pjpg&auto=webp&s=6b7c53e4142f1f6c4d7e252a1b9c9f056d649d21",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Superhero Crime",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Guardian of Hell's Kitchen", "url": "Placeholder_DisneyPlus_Daredevil_S1E1" },
+          { "episode": 9, "title": "Born Again", "url": "Placeholder_DisneyPlus_Daredevil_S1E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Star Wars: Visions Season 3",
+    "poster": "https://i.ytimg.com/vi/v5Qh6-u3v-8/maxresdefault.jpg",
+    "rated": "TV-PG",
+    "popular": "no",
+    "category": "Animated Anthology",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Short 1: Title TBD", "url": "Placeholder_DisneyPlus_Visions_S3E1" },
+          { "episode": 9, "title": "Short 9: Title TBD", "url": "Placeholder_DisneyPlus_Visions_S3E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Ironheart",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Superhero Action",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Riri's Suit", "url": "Placeholder_DisneyPlus_Ironheart_S1E1" },
+          { "episode": 6, "title": "The Genius", "url": "Placeholder_DisneyPlus_Ironheart_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Penguin",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Crime Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Gotham's New King", "url": "Placeholder_Max_Penguin_S1E1" },
+          { "episode": 8, "title": "The Reign", "url": "Placeholder_Max_Penguin_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Euphoria Season 3",
+    "poster": "https://i.ytimg.com/vi/vD3e7Y9qUvY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Teen Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Three Years Later", "url": "Placeholder_HBO_Euphoria_S3E1" },
+          { "episode": 8, "title": "The Graduation", "url": "Placeholder_HBO_Euphoria_S3E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Scam 2010 (The Curious Case of Subrata Roy)",
+    "poster": "https://i.ytimg.com/vi/q1R2f5t45cI/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Biographical Thriller",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "सपने", "url": "Placeholder_SonyLIV_Scam2010_S1E1" },
+          { "episode": 7, "title": "न्याय", "url": "Placeholder_SonyLIV_Scam2010_S1E7" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Murdaugh: Death in the Family",
+    "poster": "https://i.ytimg.com/vi/j5N3H7G4QkU/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "True Crime Docuseries",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Dynasty", "url": "Placeholder_Hulu_Murdaugh_S1E1" },
+          { "episode": 4, "title": "The Trial", "url": "Placeholder_Hulu_Murdaugh_S1E4" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Boots (2025)",
+    "poster": "https://i.ytimg.com/vi/a6yX0Tz0-wM/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "War, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Boot Camp", "url": "Placeholder_Netflix_Boots_S1E1" },
+          { "episode": 6, "title": "The Deployment", "url": "Placeholder_Netflix_Boots_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Trial: Pyaar, Kaanoon, Dhokha S2",
+    "poster": "https://i.ytimg.com/vi/bYcW3Xv-f3o/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Mystery, Drama, Crime",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "नयनिका का बदला", "url": "Placeholder_JioHotstar_TheTrial_S2E1" },
+          { "episode": 8, "title": "न्याय की जीत", "url": "Placeholder_JioHotstar_TheTrial_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Jamnapaar Season 2",
+    "poster": "https://i.ytimg.com/vi/qV1tT_jQ6pQ/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "नया संघर्ष", "url": "Placeholder_JioCinema_Jamnapaar_S2E1" },
+          { "episode": 10, "title": "घर वापसी", "url": "Placeholder_JioCinema_Jamnapaar_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Search: The Naina Murder Case",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "UA-16+",
+    "popular": "no",
+    "category": "Thriller, Mystery, Crime",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "पहला सुराग", "url": "Placeholder_JioHotstar_SearchNaina_S1E1" },
+          { "episode": 6, "title": "सच्चाई", "url": "Placeholder_JioHotstar_SearchNaina_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Kurukshetra (2025)",
+    "poster": "https://i.ytimg.com/vi/V5g_wD3v-zY/maxresdefault.jpg",
+    "rated": "UA-16+",
+    "popular": "no",
+    "category": "War, Drama, Adventure",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "धर्मक्षेत्रे", "url": "Placeholder_Netflix_Kurukshetra_S1E1" },
+          { "episode": 18, "title": "विजय", "url": "Placeholder_Netflix_Kurukshetra_S1E18" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "House of Guinness",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Biography, Drama, History",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Arthur's Legacy", "url": "Placeholder_HouseOfGuinness_S1E1" },
+          { "episode": 8, "title": "The Stout Empire", "url": "Placeholder_HouseOfGuinness_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Hotel Costiera",
+    "poster": "https://i.ytimg.com/vi/F-3h8hJ6h4A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action, Comedy, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Check-in", "url": "Placeholder_HotelCostiera_S1E1" },
+          { "episode": 6, "title": "Check-out", "url": "Placeholder_HotelCostiera_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Tulsa King Season 3",
+    "poster": "https://i.ytimg.com/vi/eW6M2tF1s9A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action, Crime, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Oklahoma Mob", "url": "Placeholder_Paramount_TulsaKing_S3E1" },
+          { "episode": 10, "title": "New Order", "url": "Placeholder_Paramount_TulsaKing_S3E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Do You Wanna Partner",
+    "poster": "https://i.ytimg.com/vi/o50L5c9x9gY/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Comedy, Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "दारू का कारोबार", "url": "Placeholder_PrimeVideo_Partner_S1E1" },
+          { "episode": 8, "title": "सफलता", "url": "Placeholder_PrimeVideo_Partner_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Outlaws (US) Season 4",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Comedy, Crime, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Community Service", "url": "Placeholder_PrimeVideo_Outlaws_S4E1" },
+          { "episode": 6, "title": "The Final Job", "url": "Placeholder_PrimeVideo_Outlaws_S4E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Sweet Magnolias Season 5",
+    "poster": "https://i.ytimg.com/vi/bX9b2S6L52k/maxresdefault.jpg",
+    "rated": "TV-PG",
+    "popular": "no",
+    "category": "Romantic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Margarita Night", "url": "Placeholder_Netflix_SweetMagnolias_S5E1" },
+          { "episode": 10, "title": "The Proposal", "url": "Placeholder_Netflix_SweetMagnolias_S5E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Night Agent Season 2",
+    "poster": "https://i.ytimg.com/vi/t4o-s7B16tE/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "President's Agent", "url": "Placeholder_Netflix_NightAgent_S2E1" },
+          { "episode": 10, "title": "The White House", "url": "Placeholder_Netflix_NightAgent_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "You Season 5",
+    "poster": "https://i.ytimg.com/vi/V5g_wD3v-zY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Psychological Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Hello, New York", "url": "Placeholder_Netflix_You_S5E1" },
+          { "episode": 10, "title": "The Final Victim", "url": "Placeholder_Netflix_You_S5E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Hazbin Hotel Season 2",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Animated Musical Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Hell's Redemption", "url": "Placeholder_PrimeVideo_HazbinHotel_S2E1" },
+          { "episode": 8, "title": "The New Order", "url": "Placeholder_PrimeVideo_HazbinHotel_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Only Murders in the Building S5",
+    "poster": "https://i.ytimg.com/vi/q1R2f5t45cI/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Mystery Comedy",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The New Neighbor", "url": "Placeholder_Hulu_OnlyMurders_S5E1" },
+          { "episode": 10, "title": "The Finale", "url": "Placeholder_Hulu_OnlyMurders_S5E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Last of Us Season 2",
+    "poster": "https://www.looper.com/img/gallery/everything-we-know-about-the-last-of-us-season-2/l-intro-1681223945.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Post-Apocalyptic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Long Road", "url": "Placeholder_HBO_LastOfUs_S2E1" },
+          { "episode": 9, "title": "Seattle (Part 2)", "url": "Placeholder_HBO_LastOfUs_S2E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Squid Game: The Challenge S2",
+    "poster": "https://i.ytimg.com/vi/a6yX0Tz0-wM/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Reality Competition",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Red Light, Green Light", "url": "Placeholder_Netflix_SquidGameChallenge_S2E1" },
+          { "episode": 10, "title": "The Final Game", "url": "Placeholder_Netflix_SquidGameChallenge_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Eternaut",
+    "poster": "https://i.ytimg.com/vi/j5N3H7G4QkU/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Sci-Fi Disaster",
+    "languages": {
+      "Spanish": {
+        "episodes": [
+          { "episode": 1, "title": "La Nevada", "url": "Placeholder_Netflix_Eternaut_S1E1" },
+          { "episode": 6, "title": "El Regreso", "url": "Placeholder_Netflix_Eternaut_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Last of Us Season 2",
+    "poster": "https://www.looper.com/img/gallery/everything-we-know-about-the-last-of-us-season-2/l-intro-1681223945.jpg",
+    "rated": "TV-MA",
+    "popular": "yes",
+    "category": "Post-Apocalyptic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Long Road", "url": "Placeholder_HBO_LastOfUs_S2E1" },
+          { "episode": 9, "title": "Seattle (Part 2)", "url": "Placeholder_HBO_LastOfUs_S2E9" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Euphoria Season 3",
+    "poster": "https://i.ytimg.com/vi/vD3e7Y9qUvY/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Teen Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Three Years Later", "url": "Placeholder_HBO_Euphoria_S3E1" },
+          { "episode": 8, "title": "The Graduation", "url": "Placeholder_HBO_Euphoria_S3E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Scam 2010 (The Curious Case of Subrata Roy)",
+    "poster": "https://i.ytimg.com/vi/q1R2f5t45cI/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Biographical Thriller",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "सपने", "url": "Placeholder_SonyLIV_Scam2010_S1E1" },
+          { "episode": 7, "title": "न्याय", "url": "Placeholder_SonyLIV_Scam2010_S1E7" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Murdaugh: Death in the Family",
+    "poster": "https://i.ytimg.com/vi/j5N3H7G4QkU/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "True Crime Docuseries",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Dynasty", "url": "Placeholder_Hulu_Murdaugh_S1E1" },
+          { "episode": 4, "title": "The Trial", "url": "Placeholder_Hulu_Murdaugh_S1E4" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Boots (2025)",
+    "poster": "https://i.ytimg.com/vi/a6yX0Tz0-wM/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "War, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Boot Camp", "url": "Placeholder_Netflix_Boots_S1E1" },
+          { "episode": 6, "title": "The Deployment", "url": "Placeholder_Netflix_Boots_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Trial: Pyaar, Kaanoon, Dhokha S2",
+    "poster": "https://i.ytimg.com/vi/bYcW3Xv-f3o/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Mystery, Drama, Crime",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "नयनिका का बदला", "url": "Placeholder_JioHotstar_TheTrial_S2E1" },
+          { "episode": 8, "title": "न्याय की जीत", "url": "Placeholder_JioHotstar_TheTrial_S2E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Jamnapaar Season 2",
+    "poster": "https://i.ytimg.com/vi/qV1tT_jQ6pQ/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "नया संघर्ष", "url": "Placeholder_JioCinema_Jamnapaar_S2E1" },
+          { "episode": 10, "title": "घर वापसी", "url": "Placeholder_JioCinema_Jamnapaar_S2E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Search: The Naina Murder Case",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "UA-16+",
+    "popular": "no",
+    "category": "Thriller, Mystery, Crime",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "पहला सुराग", "url": "Placeholder_JioHotstar_SearchNaina_S1E1" },
+          { "episode": 6, "title": "सच्चाई", "url": "Placeholder_JioHotstar_SearchNaina_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Kurukshetra (2025)",
+    "poster": "https://i.ytimg.com/vi/V5g_wD3v-zY/maxresdefault.jpg",
+    "rated": "UA-16+",
+    "popular": "no",
+    "category": "War, Drama, Adventure",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "धर्मक्षेत्रे", "url": "Placeholder_Netflix_Kurukshetra_S1E1" },
+          { "episode": 18, "title": "विजय", "url": "Placeholder_Netflix_Kurukshetra_S1E18" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "House of Guinness",
+    "poster": "https://i.ytimg.com/vi/31Qe3_l75h0/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Biography, Drama, History",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Arthur's Legacy", "url": "Placeholder_HouseOfGuinness_S1E1" },
+          { "episode": 8, "title": "The Stout Empire", "url": "Placeholder_HouseOfGuinness_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Hotel Costiera",
+    "poster": "https://i.ytimg.com/vi/F-3h8hJ6h4A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action, Comedy, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Check-in", "url": "Placeholder_HotelCostiera_S1E1" },
+          { "episode": 6, "title": "Check-out", "url": "Placeholder_HotelCostiera_S1E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Tulsa King Season 3",
+    "poster": "https://i.ytimg.com/vi/eW6M2tF1s9A/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action, Crime, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "The Oklahoma Mob", "url": "Placeholder_Paramount_TulsaKing_S3E1" },
+          { "episode": 10, "title": "New Order", "url": "Placeholder_Paramount_TulsaKing_S3E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Do You Wanna Partner",
+    "poster": "https://i.ytimg.com/vi/o50L5c9x9gY/maxresdefault.jpg",
+    "rated": "TV-14",
+    "popular": "no",
+    "category": "Comedy, Drama",
+    "languages": {
+      "Hindi": {
+        "episodes": [
+          { "episode": 1, "title": "दारू का कारोबार", "url": "Placeholder_PrimeVideo_Partner_S1E1" },
+          { "episode": 8, "title": "सफलता", "url": "Placeholder_PrimeVideo_Partner_S1E8" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Outlaws (US) Season 4",
+    "poster": "https://i.ytimg.com/vi/q442w1_WvM4/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Comedy, Crime, Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Community Service", "url": "Placeholder_PrimeVideo_Outlaws_S4E1" },
+          { "episode": 6, "title": "The Final Job", "url": "Placeholder_PrimeVideo_Outlaws_S4E6" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "Sweet Magnolias Season 5",
+    "poster": "https://i.ytimg.com/vi/bX9b2S6L52k/maxresdefault.jpg",
+    "rated": "TV-PG",
+    "popular": "no",
+    "category": "Romantic Drama",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "Margarita Night", "url": "Placeholder_Netflix_SweetMagnolias_S5E1" },
+          { "episode": 10, "title": "The Proposal", "url": "Placeholder_Netflix_SweetMagnolias_S5E10" }
+        ]
+      }
+    }
+  },
+  {
+    "title": "The Night Agent Season 2",
+    "poster": "https://i.ytimg.com/vi/t4o-s7B16tE/maxresdefault.jpg",
+    "rated": "TV-MA",
+    "popular": "no",
+    "category": "Action Thriller",
+    "languages": {
+      "English": {
+        "episodes": [
+          { "episode": 1, "title": "President's Agent", "url": "Placeholder_Netflix_NightAgent_S2E1" },
+          { "episode": 10, "title": "The White House", "url": "Placeholder_Netflix_NightAgent_S2E10" }
         ]
       }
     }
