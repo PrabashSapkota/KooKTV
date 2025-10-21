@@ -6,7 +6,7 @@
     "popular": "no",
     "category": "Romantic Drama",
     "languages": {
-      "English": {
+      "Original": {
         "episodes": [
           { "episode": 1, "title": "Season 3 - Episode 1", "url": "274561/1/1" },
           { "episode": 2, "title": "Season 3 - Episode 2", "url": "274561/1/2" },
@@ -19,18 +19,6 @@
           { "episode": 9, "title": "Season 3 - Episode 9", "url": "274561/1/9" },
           { "episode": 10, "title": "Season 3 - Episode 10", "url": "274561/1/10" },
           { "episode": 11, "title": "Season 3 - Episode 11", "url": "274561/1/11" }
-        ]
-      },
-      "Hindi": {
-        "episodes": [
-          { "episode": 1, "title": "एपिसोड 1 - Series 1", "url": "Placeholder_LoveInTheMoonlight_HI_S3E1" },
-          { "episode": 2, "title": "एपिसोड 2 - Series 1", "url": "Placeholder_LoveInTheMoonlight_HI_S3E2" }
-        ]
-      },
-      "Spanish": {
-        "episodes": [
-          { "episode": 1, "title": "Episodio 1 - Serie 1", "url": "Placeholder_LoveInTheMoonlight_ES_S3E1" },
-          { "episode": 2, "title": "Episodio 2 - Serie 1", "url": "Placeholder_LoveInTheMoonlight_ES_S3E2" }
         ]
       }
     }
