@@ -30,15 +30,15 @@
     "popular": "no",
     "category": "Comedy",
     "languages": {
-      "Hindi": {
+      "Original": {
         "episodes": [
-          { "episode": 1, "title": "एपिसोड-1", "url": "https://www.youtube.com/watch?v=YvRp9PZ5fyk" },
-          { "episode": 2, "title": "एपिसोड-2", "url": "https://www.youtube.com/watch?v=YvRp9PZ5fyk" },
-          { "episode": 3, "title": "एपिसोड-3", "url": "https://www.youtube.com/watch?v=YvRp9PZ5fyk" },
-          { "episode": 4, "title": "एपिसोड-4", "url": "https://www.youtube.com/watch?v=YvRp9PZ5fyk" },
-          { "episode": 5, "title": "एपिसोड-5", "url": "https://www.youtube.com/watch?v=YvRp9PZ5fyk" },
-          { "episode": 6, "title": "एपिसोड-6", "url": "https://www.youtube.com/watch?v=YvRp9PZ5fyk" },
-          { "episode": 7, "title": "एपिसोड-7", "url": "https://www.youtube.com/watch?v=YvRp9PZ5fyk" }
+          { "episode": 1, "title": "एपिसोड-1", "url": "247043/1/1" },
+          { "episode": 2, "title": "एपिसोड-2", "url": "247043/1/2" },
+          { "episode": 3, "title": "एपिसोड-3", "url": "247043/1/3" },
+          { "episode": 4, "title": "एपिसोड-4", "url": "247043/1/4" },
+          { "episode": 5, "title": "एपिसोड-5", "url": "247043/1/5" },
+          { "episode": 6, "title": "एपिसोड-6", "url": "247043/1/6" },
+          { "episode": 7, "title": "एपिसोड-7", "url": "247043/1/7" }
         ]
       }
     }
