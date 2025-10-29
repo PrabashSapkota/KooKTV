@@ -1,20 +1,156 @@
 [
     {
-        "title": "Avatar",
-        "poster": "https://photoshopstar.com/media/2010/01/avatar_movie_34full.jpg",
+        "title": "Secrete Lives Season 28",
+        "poster": "https://image.tmdb.org/t/p/original/nG2im8JKKNB6dXg9ZmVTuiYqFJI.jpg",
         "rated": "PG",
         "popular": "yes",
-        "category": "Movie",
+        "category": "Drama",
         "languages": {
             "Original": {
                 "episodes": [
                     {
                         "episode": 1,
-                        "title": "Full movie",
-                        "url": "19995/"
+                        "title": "Episode 1",
+                        "url": "14610/28/1"
+                    },
+                     {
+                        "episode": 2,
+                        "title": "Episode 2",
+                        "url": "14610/28/2"
+                    },
+                     {
+                        "episode": 3,
+                        "title": "Episode 3",
+                        "url": "14610/28/3"
+                    },
+                     {
+                        "episode": 4,
+                        "title": "Episode 4",
+                        "url": "14610/28/4"
+                    },
+                     {
+                        "episode": 5,
+                        "title": "Episode 5",
+                        "url": "14610/28/5"
+                    },
+                     {
+                        "episode": 6,
+                        "title": "Episode 6",
+                        "url": "14610/28/6"
+                    },
+                     {
+                        "episode": 7,
+                        "title": "Episode 7",
+                        "url": "14610/28/7"
+                    },
+                     {
+                        "episode": 8,
+                        "title": "Episode 8",
+                        "url": "14610/28/8"
+                    },
+                     {
+                        "episode": 9,
+                        "title": "Episode 9",
+                        "url": "14610/28/9"
+                    },
+                     {
+                        "episode": 10,
+                        "title": "Episode 10",
+                        "url": "14610/28/10"
+                    },
+                     {
+                        "episode": 11,
+                        "title": "Episode 11",
+                        "url": "14610/28/11"
+                    },
+                     {
+                        "episode": 12,
+                        "title": "Episode 12",
+                        "url": "14610/28/12"
+                    },
+                     {
+                        "episode": 13,
+                        "title": "Episode 13",
+                        "url": "14610/28/13"
+                    },
+                     {
+                        "episode": 14,
+                        "title": "Episode 14",
+                        "url": "14610/28/14"
+                    },
+                     {
+                        "episode": 15,
+                        "title": "Episode 15",
+                        "url": "14610/28/15"
+                    },
+                     {
+                        "episode": 16,
+                        "title": "Episode 16",
+                        "url": "14610/28/16"
+                    },
+                     {
+                        "episode": 17,
+                        "title": "Episode 17",
+                        "url": "14610/28/17"
+                    },
+                     {
+                        "episode": 18,
+                        "title": "Episode 18",
+                        "url": "14610/28/18"
+                    },
+                     {
+                        "episode": 19,
+                        "title": "Episode 19",
+                        "url": "14610/28/19"
+                    },
+                     {
+                        "episode": 20,
+                        "title": "Episode 20",
+                        "url": "14610/28/20"
+                    },
+                     {
+                        "episode": 21,
+                        "title": "Episode 21",
+                        "url": "14610/28/21"
+                    },
+                     {
+                        "episode": 22,
+                        "title": "Episode 22",
+                        "url": "14610/28/22"
+                    },
+                     {
+                        "episode": 23,
+                        "title": "Episode 23",
+                        "url": "14610/28/23"
+                    },
+                     {
+                        "episode": 24,
+                        "title": "Episode 24",
+                        "url": "14610/28/24"
+                    },
+                     {
+                        "episode": 25,
+                        "title": "Episode 25",
+                        "url": "14610/28/25"
+                    },
+                     {
+                        "episode": 26,
+                        "title": "Episode 26",
+                        "url": "14610/28/26"
+                    },
+                     {
+                        "episode": 27,
+                        "title": "Episode 27",
+                        "url": "14610/28/27"
+                    },
+                     {
+                        "episode": 28,
+                        "title": "Episode 28",
+                        "url": "14610/28/28"
                     }
                 ]
             }
         }
     }
 ]
+
